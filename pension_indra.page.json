@@ -1,0 +1,26 @@
+{
+ "image": "4161774_00892.jpg",
+ "width": 2096,
+ "height": 3025,
+ "rotation": 0,
+ "skew": -0.5,
+ "vertical": false,
+ "source": "ocr",
+ "note": "order=model",
+ "n_lines": 44,
+ "n_blocks": 1,
+ "blocks": [
+  {
+   "block_id": 0,
+   "label": "Text",
+   "bbox": [
+    277.2,
+    76.0,
+    1925.2,
+    2922.3
+   ],
+   "text": "George sosten of the they in the County of Washington and\nState of Rhode Island on Sath saith, in adde ton and\nis planation of the testimony, heretofore given facevices pene\nformed by Sipt goshen Findleton during the Revolutionary\nthe dat he was knowing to services performed as states that\n\nthis deponant was the bank of said Copt fosthen andations\nCompany, and that he arted as a Commisarge and diale aut\nthe rations to the men, which were femmisted by the State\nof Rhode estand, that said Company funnisted a guard\nby de tochments, which were stationed at Wath thill and to\nthe Eastward on the Warraganses shore, said Giard were\nframeted by the State with an nine pound sonnon, ond\ntwo faune pound field piece & that during the end before\nmentioned the Enemy, drove on the shore on by hid\n- Schoonen prise to a Privature owned in Nam danolam\nwhich was bound from bark to Navy youth Comcadwith\nprovisions for the British Army the Enemy boarded and\n\n\nset the on fine but we drove them off with sien guns\nextinguished the fine and sound the cargo this was in\nthe fail of 1777 the same year the English Strops of War\ncalled the Otter and a fifty your ship anove on shame\na privation anned at Staning and a schoonen, her priva,\nbut they were prevented from boarding them, by the\nMedition, and were both saved, that a sloop of one hundred\nand thirty tous with a full cargo of soll, bem, soon, He \nfrom Leminora, was drove on shone neon talih sirih\nwhich was also defender and saved by the Militia, both\nrepel and cargo, that an English Six ten gun sehooner\nin chose of an American Privatun, trekon a Rask\nmon Walt Paint, and with aven guns we preven to the\nEnemy from gitting her off, and she was blow-up by\nthem, the Enemy had endisins along the shore, constants\nby during the periods before men tioned, and frequently\nattempted to take the cattle from the adjoining. Harms,\nwhich were generally prevented by our grow. The said\nCopt Pinchiton continued in command of said company\nuntil the year 1780, and there was a Guan constently state.\nioned at Watt Hill by the onden and direition of Capt\nPendleton, by detachments from his company and a thers\nin bot Hayes Regiment, and in all inn geners the whol\nCompany, was on dinty, the Guard consis to of about"
+  }
+ ],
+ "indra_ocr_version": "1.1.2"
+}

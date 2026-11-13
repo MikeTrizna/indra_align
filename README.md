@@ -24,6 +24,8 @@ The result is Chandra's text with word-level geometry.
 | --- | --- |
 | [grab_ocr_output.py](grab_ocr_output.py) | Fetches Chandra block-level OCR (text + bbox) for one page from the `RevolutionCrossroads/RevX_OCR_results` dataset on Hugging Face (via DuckDB). |
 | [chandra_indra_word_boxes.py](chandra_indra_word_boxes.py) | Runs Indra, aligns it to the Chandra blocks, and writes word boxes as JSON, hOCR and/or an HTML viewer. |
+| [indra_page_data.py](indra_page_data.py) | Runs Indra's full-page pipeline and writes `lines.csv`, `chars.csv` and `page.json`. |
+| [align_indra_and_chandra.py](align_indra_and_chandra.py) | Newer aligner: uses the Indra CSVs (no Indra install needed), cuts Chandra's words into Indra lines with an edit-distance DP, then aligns characters within each line. Same outputs (`--html`, `--hocr`, JSON) plus an Indra-lines overlay. Estimates the Chandra→image scale automatically (`--scale` to override). |
 | `4161774_00892.jpg` | Sample page image. |
 | `page_63.json` | Sample Chandra block-level input. |
 | `4161774_00892.words.json` | Sample word-box output. |
