@@ -1,0 +1,475 @@
+line_id,reading_order,block_id,block_label,text,x0,y0,x1,y1,rec_conf
+0,0,0,Page-Header,,342.4,253.0,545.6,439.2,0.2539
+1,1,0,Page-Header,,255.4,368.7,1778.7,625.6,0.483
+2,2,1,Section-Header,JENKS PORTEAND GAZETTE.,614.2,563.1,4070.8,844.1,0.9481
+3,3,2,Section-Header,URLES BY CERT ALLEY FONS FOR HEREOF THE LAWS OF THE UNITED STATEA FOR THE DEFICE OF WAR,716.7,818.5,3903.4,995.4,0.5446
+4,4,3,Text,50 500 188.,132.7,1045.0,545.6,1145.4,0.6102
+8,5,4,Section-Header,BANKRUPTCY.,368.1,1212.1,834.5,1286.4,0.9893
+11,6,5,Section-Header,,111.4,1319.3,1126.7,1403.2,0.4808
+7,7,6,Section-Header,,1521.5,1113.8,1896.1,1223.5,0.2617
+22,8,7,List-Group,a,94.3,1522.3,103.9,1585.7,0.8676
+16,9,7,List-Group,a,104.0,1472.9,113.3,1534.7,0.8627
+14,10,7,List-Group," in the Distriet of Maine, Trader and Iron-",134.1,1401.4,1127.7,1482.0,0.9046
+17,11,7,List-Group,nd the said Richa Ayer has been declared a,253.7,1453.6,1118.3,1531.8,0.8627
+23,12,7,List-Group,n he is hereby required to furtender himself,169.8,1502.8,1119.6,1584.2,0.8676
+25,13,7,List-Group,"missioners, in the said Commission hamed,",116.2,1553.8,1120.3,1635.2,0.8463
+29,14,7,List-Group,with,107.5,1650.0,213.3,1713.2,0.6977
+30,15,7,List-Group,"December next, and be the 16th of",362.7,1632.6,1121.7,1708.3,0.6977
+38,16,7,List-Group,a,109.5,1753.1,118.5,1814.6,0.6899
+39,17,7,List-Group,s at the house of Daniel Gr,335.5,1736.4,989.0,1810.3,0.6899
+40,18,7,List-Group,e,1086.3,1733.7,1130.4,1795.9,0.6899
+44,19,7,List-Group,"and, in said District, and make a fuit dif",121.3,1808.4,1114.7,1888.1,0.8783
+48,20,7,List-Group,e,102.6,1907.7,121.1,1965.7,0.5875
+49,21,7,List-Group,ditors are to come separed in,376.7,1890.6,1012.5,1960.4,0.5875
+59,22,7,List-Group,o,104.0,2005.3,123.9,2066.4,0.5593
+60,23,7,List-Group,"nes, and at the all mentine",327.3,1988.0,1026.2,2062.1,0.5593
+61,24,7,List-Group,a,1111.4,1986.0,1128.4,2047.0,0.5593
+66,25,7,List-Group, i required to finith his examination; —And,126.5,2062.6,1129.5,2140.8,0.9241
+68,26,7,List-Group,"itlaftmecting, any of the Creditors of faid",107.0,2114.4,1130.3,2191.2,0.919
+72,27,7,List-Group,me may be heard before said Commissioners.,118.1,2164.5,1121.1,2242.1,0.8863
+76,28,7,List-Group,a the making or allow ng of a certificate to the,129.4,2214.3,1132.5,2292.6,0.942
+79,29,9,List-Group,o,109.5,2284.7,128.9,2345.4,0.8703
+84,30,9,List-Group,nicate of discharge.,150.0,2330.3,550.0,2395.8,0.8541
+85,31,9,List-Group,Il persons indebted to,662.0,2319.3,1123.9,2385.9,0.8541
+20,32,8,List-Group,i,1170.2,1509.0,1181.6,1584.9,0.6957
+32,33,8,List-Group,more,1154.3,1666.3,1328.9,1740.3,0.67
+51,34,8,List-Group,"as above,",1180.4,1867.4,1363.3,1924.7,0.9357
+54,35,8,List-Group,,1181.4,1918.8,1364.3,1975.9,0.0
+33,36,8,List-Group,t,1488.4,1662.3,1539.2,1733.8,0.67
+80,37,9,List-Group,f find district to entitle the said Bankrupt to,191.9,2265.4,1133.7,2343.8,0.8703
+86,38,9,List-Group,"pinkrupt, are to make payment; and those who",111.5,2366.4,1135.5,2445.1,0.8912
+90,39,9,List-Group,"y of his effects, are ta deliver the fame to fuch",112.2,2419.0,1126.4,2499.5,0.9305
+94,40,9,List-Group,in or persons only as the Commissioners shall ap,113.1,2469.8,1138.0,2551.8,0.8838
+98,41,9,List-Group,"JOSEPH HUCKINs,",529.4,2521.4,992.8,2586.5,0.9399
+102,42,9,List-Group,"JOHN PAIN,",530.8,2574.8,837.8,2633.4,0.7454
+105,43,10,List-Group,"James Bradbury,",531.6,2622.2,1025.6,2686.2,0.7259
+108,44,11,List-Group,,346.9,2679.8,922.1,2740.3,0.0
+106,45,12,Text,No. 23.,138.6,2649.5,258.5,2702.6,0.7394
+112,46,14,List-Group,"of E is hereby given, that the subscriber has",118.9,2735.9,1131.8,2812.4,0.8943
+116,47,14,List-Group,ben duly appointed Affignee of the Estate and-,161.1,2784.6,1153.8,2862.3,0.9137
+119,48,14,List-Group,"is of Zephaniah Harlow, Jun and Freemen Harlow,",120.6,2837.3,1134.0,2915.1,0.7901
+122,49,14,List-Group,Beb in the District of Maine. Bankrupts :All,121.7,2888.6,1135.0,2966.4,0.9094
+126,50,14,List-Group,was having in their portellion any property belong-,122.8,2943.4,1136.0,3020.9,0.8574
+128,51,14,List-Group,"to thefad Harlows, are called upon io furrender",123.5,2989.4,1126.7,3067.8,0.9308
+131,52,14,List-Group,"efame; andthofe indebted, to make immediare pay.",124.3,3040.9,1117.4,3119.9,0.919
+136,53,12,Text,ment to,116.2,3121.9,247.3,3178.3,0.918
+137,54,13,Text,"Parden, Mo. 23, 1801.",126.6,3151.1,580.3,3218.1,0.7669
+111,55,14,List-Group,--,947.3,2681.0,1026.5,2735.8,0.5267
+143,56,14,List-Group,,356.1,3201.7,393.8,3255.9,0.3092
+133,57,14,List-Group,ANDREW GREENWOOD.,456.6,3089.4,1077.1,3162.4,0.9771
+148,58,15,Text,NOTIFICATION.,315.6,3260.4,810.0,3325.7,0.9562
+152,59,15,Text,"i the fabferibers, Commiffioners appointed by",150.2,3313.7,1133.2,3393.6,0.9203
+156,60,15,Text,"I the Hon Edward Cutts, Esq. Judge of the Pro-",129.8,3361.7,1134.8,3445.5,0.8879
+159,61,15,Text,"t,  Wills, &c. for the county of York, to reccive",111.0,3414.7,1145.1,3492.9,0.959
+161,62,15,Text,ulemne the claims of the feveral Creditors to the,111.8,3464.3,1135.9,3544.0,0.9166
+165,63,15,Text,"dated SAMUEL ROFF, late of Bille ford, mariner",112.2,3514.3,1127.1,3596.7,0.8568
+169,64,15,Text,"alel, reprefented infolvent—hereby give notice.",113.5,3566.7,1127.7,3647.4,0.9219
+172,65,15,Text,"witmonths from the 26th of October, 1801 is al-",114.5,3617.1,1139.1,3698.0,0.913
+176,66,15,Text,ed to bring in and prove their claims that we shall,115.7,3667.4,1150.2,3747.3,0.881
+180,67,15,Text,"and that service at the house of Josepa Srevens,",106.1,3717.0,1140.9,3797.8,0.8794
+181,68,15,Text,"Ammitator on faid estate, in Biddeford, on the fe.",107.0,3768.1,1131.7,3849.3,0.9327
+185,69,15,Text,"ed Turiday of November inftant, and the fecond",107.8,3818.1,1132.8,3900.3,0.9157
+189,70,15,Text,"Te laysof the four next following months, from one",109.0,3870.2,1133.6,3951.1,0.9066
+193,71,15,Text,"Dive o'clock, P. M. on each day.",110.4,3927.9,729.8,3997.6,0.8974
+210,72,16,Text,-,188.5,4143.9,286.6,4193.2,0.9663
+199,73,16,Text,"ELIHU COFFIN,",225.4,3979.0,575.3,4042.9,0.9368
+201,74,16,Text,"CHRISTOPHER GILPATRICK, A,",226.0,4020.1,1094.7,4096.5,0.929
+205,75,16,Text,"Bilford, Nov. 2, 1801.",135.0,4084.3,555.7,4144.4,0.8797
+213,76,16,Text,"QIRAYED from the fubfcriber, about the 7th inft.",114.8,4183.0,1139.8,4265.1,0.9531
+216,77,16,Text,"D a dark red COW, about 5 or 6 years old, with",116.0,4234.9,1140.6,4315.9,0.947
+218,78,16,Text,"e picked horns, and a very long tail.—Whoever",127.5,4285.9,1141.4,4366.0,0.9672
+220,79,16,Text,"gire information of faid Cow, fo that the owner",118.0,4335.5,1142.4,4415.9,0.9464
+223,80,16,Text," get her agato, fhall be handfomely rewarded for",129.2,4388.2,1133.2,4469.0,0.9326
+227,81,16,Text,ir trouble.,131.8,4456.1,314.0,4511.0,0.9298
+231,82,16,Text,"Portlar 1, Nov 23.",131.9,4498.3,450.4,4561.0,0.7881
+235,83,17,List-Group,,113.2,4558.1,253.5,4611.0,0.0
+247,84,18,Text,10 sged about 18 vears. Hid on when he went,114.1,4701.7,1129.4,4785.6,0.9143
+250,85,18,Text,in a green coat and diue trowens he is about five,114.9,4755.3,1130.8,4841.3,0.8733
+252,86,18,Text,har inches high. Whoever will apprehend said,115.5,4803.1,1142.3,4891.4,0.8582
+255,87,18,Text,"Mass bring him to the subferiber, shall receive one",116.2,4854.7,1133.2,4944.4,0.8117
+260,88,18,Text,"on toward, and no charges paid. And I do hereby",117.4,4905.2,1134.0,4993.2,0.8602
+264,89,18,Text,"hd all perfons harboring or truting him, and alt",118.6,4955.5,1145.1,5042.5,0.9097
+267,90,18,Text,set of reles from thipping or receiving him on,120.6,5013.6,1145.1,5094.4,0.8753
+269,91,18,Text,"sed their veniels, as they would avoid the penalty of",121.1,5060.1,1136.0,5143.0,0.8649
+276,92,18,Text,"Peperillirugb, Nov 4, 1801.",143.9,5166.0,681.9,5238.6,0.7797
+87,93,19,List-Group,ment of,1178.9,2356.4,1342.3,2416.7,0.9546
+99,94,19,List-Group,"Partland, Nov. 7.",1223.9,2532.7,1583.9,2596.4,0.934
+144,95,20,List-Group,,956.4,3194.1,1140.8,3255.8,0.0
+145,96,20,List-Group,,1205.8,3187.8,1388.7,3245.0,0.0
+200,97,21,Text,Commis,940.1,3982.3,1115.0,4046.7,0.8122
+211,98,22,List-Group,-,995.3,4131.5,1086.1,4190.5,0.5621
+228,99,23,Text,JACOB ROLFE.,648.5,4441.7,1061.5,4509.9,0.9831
+237,100,24,Text,,1003.0,4544.4,1125.5,4605.8,0.3843
+239,101,25,Text,L,1199.6,4637.9,1250.4,4709.5,0.9219
+242,102,25,Text,A,1208.8,4607.3,1285.0,4685.3,0.9983
+273,103,27,List-Group,,144.1,5128.2,223.8,5184.7,0.4623
+274,104,27,List-Group,JOHN BURBANK.,578.3,5115.9,1054.0,5187.3,0.7306
+282,105,28,List-Group,-,725.9,5222.6,754.8,5281.4,0.5073
+287,106,29,List-Group,HVE CENTS REWARD.,281.1,5275.0,890.9,5346.5,0.9075
+291,107,29,List-Group,"ne of De NJAMIN RICH,",569.5,5410.4,1144.2,5493.3,0.5891
+277,108,30,List-Group,a,1200.7,5185.5,1210.9,5252.1,0.5199
+290,109,31,List-Group,a,126.6,5429.7,137.0,5501.8,0.5891
+302,110,31,List-Group,"her perien who will bring back fa denaway, that.",129.6,5541.6,1135.9,5629.7,0.8108
+305,111,31,List-Group,"e me above reward, but no charges paid",141.5,5595.4,1084.6,5679.1,0.8924
+307,112,31,List-Group,0,131.0,5660.8,154.5,5733.4,0.8014
+308,113,31,List-Group,"4 al perions barboring or Truding bein,",333.9,5641.7,1148.7,5729.5,0.8014
+312,114,31,List-Group,a,132.4,5756.1,143.5,5831.1,0.8576
+313,115,31,List-Group,"red the penalty of the law,",222.2,5743.8,779.2,5829.4,0.8576
+283,116,32,List-Group,-,746.0,5215.9,931.5,5280.8,0.8133
+326,117,33,List-Group,TEN CENTS REWARD.,292.8,5910.6,903.6,5985.5,0.9845
+330,118,33,List-Group,"SAWAY from the fubfcriber, an indented ap.",158.4,5980.3,1144.7,6070.1,0.9171
+333,119,33,List-Group,"route by the name of Samuel Williams, about",138.8,6032.5,1156.0,6122.5,0.7933
+336,120,33,List-Group,a,140.9,6153.9,151.6,6222.9,0.8052
+337,121,33,List-Group,"t, dark skin, had on a blue coat. Atriped",273.4,6134.3,1168.1,6220.4,0.8052
+344,122,33,List-Group,e,142.5,6253.7,191.9,6323.3,0.7612
+345,123,33,List-Group,"rbaring him, or any masters of vessels carry -",263.8,6235.1,1159.5,6321.0,0.7612
+349,124,33,List-Group,a,144.3,6361.5,155.3,6434.7,0.7898
+350,125,33,List-Group,tive the above reward of OBE,398.9,6342.8,1133.5,6429.8,0.7898
+370,126,33,List-Group,i,169.4,6633.5,195.4,6713.2,0.8029
+362,127,33,List-Group,"TWENTY DOLLARS KEWARD,",209.8,6531.8,1062.6,6622.8,0.8793
+371,128,33,List-Group,n the Tenter Hooks of me the subscriber,306.5,6615.2,1147.8,6710.5,0.8029
+364,129,33,List-Group,,1060.5,6509.0,1143.5,6575.9,0.4245
+365,130,93,Text,i,1206.9,6591.5,1217.1,6658.4,0.5797
+358,131,93,Text,,1289.1,6427.9,1326.0,6478.8,0.3088
+366,132,93,Text,n,1311.7,6588.8,1359.8,6656.4,0.5797
+394,133,34,List-Group,"PETER MERRILL, Jos.",532.0,7132.4,1105.4,7219.3,0.8336
+397,134,34,List-Group,"enty of Tork, tab Mants , 66 Day, 1801.",182.0,7186.4,1115.4,7271.9,0.7693
+407,135,34,List-Group,STOP THE IP.,402.1,7304.2,744.1,7376.0,0.7799
+414,136,34,List-Group,"bis no e out; When toen, had a",446.7,7658.3,1167.4,7748.5,0.7714
+413,137,34,List-Group,a,179.5,7676.8,204.7,7753.7,0.7714
+442,138,34,List-Group,,218.2,8003.6,395.2,8074.6,0.4999
+447,139,34,List-Group,,218.7,8046.6,344.4,8118.2,0.0
+448,140,34,List-Group,,322.7,8062.5,427.8,8134.3,0.4627
+454,141,34,List-Group,a,200.0,8205.1,211.1,8281.5,0.684
+451,142,34,List-Group,,529.7,8068.6,625.2,8142.3,0.2843
+452,143,34,List-Group,,653.3,8060.9,781.2,8139.6,0.3945
+449,144,34,List-Group,,789.2,8062.6,862.9,8132.5,0.3416
+443,145,34,List-Group,(4),944.2,8026.1,1048.5,8095.3,0.7913
+450,146,34,List-Group,,923.8,8061.0,1049.5,8132.4,0.0
+455,147,34,List-Group,"you becoming, and has left",611.0,8186.9,1156.8,8273.6,0.684
+465,148,34,List-Group,e act or alter this date.,225.0,8340.4,847.2,8419.2,0.7261
+467,149,34,List-Group,MOSES CROSS,753.8,8374.9,1097.0,8450.2,0.884
+470,150,34,List-Group,ceived.,1211.8,8425.8,1345.6,8490.4,0.8957
+5,151,35,Section-Header,"MONDAY, Norams 30, 1801.",1672.4,1001.6,2975.0,1147.3,0.775
+9,152,36,Section-Header,"Fall B WintemGoods,",1303.9,1200.7,2200.3,1332.2,0.94
+28,153,37,Text,"GLISH, WESTINDIA, and HARDWARE 50005",1161.8,1566.5,2314.3,1661.2,0.8188
+15,154,38,Section-Header,"William Lord,",1413.1,1375.8,2056.1,1487.3,0.9614
+21,155,39,Text,"n thed, and bow ready for sale, at his",1314.5,1487.3,2313.3,1582.1,0.6957
+41,156,40,List-Group,"and every favor gratefully arknowledged,",1154.1,1724.4,2048.1,1815.7,0.9683
+45,157,41,Text,"30 bbls. fuperfine FLOUR, for fale",1237.3,1782.7,2319.8,1883.6,0.9729
+34,158,42,List-Group,o,2094.6,1650.7,2145.4,1722.2,0.67
+55,159,43,List-Group,,1843.9,1911.7,1966.1,1972.3,0.3311
+62,160,44,List-Group,"REMOVAL,",1585.7,1974.3,1926.3,2041.5,0.9516
+75,161,45,Text,,1183.4,2207.3,2327.8,2308.6,0.0
+82,162,46,Text,"if, where they have on hand a handsome affort.",1186.0,2288.4,2328.2,2383.3,0.8626
+95,163,47,Text,as cheap as can be purchafed in town.,1159.5,2470.7,1998.6,2550.9,0.958
+70,164,48,Section-Header,"Grecly & Fletcher,",1345.4,2101.7,2151.5,2208.1,0.9694
+91,165,49,Text,"European & India Goods,",1352.8,2401.6,2186.4,2497.0,0.9626
+115,166,50,Text,"they have received per the late attival, a",1194.6,2776.8,2317.7,2876.3,0.8291
+110,167,51,Section-Header,"Lord & Thomas,",1386.9,2651.7,2110.4,2757.5,0.9944
+138,168,52,Text,"Portland, Nov. 2.",1224.6,3137.8,1637.7,3206.5,0.8309
+125,169,53,Section-Header,"Fall and Winter GOODS,",1331.1,2901.2,2154.8,2998.3,0.9967
+129,170,54,Text,Jones' Recond which they will dispose of on the,1178.5,3015.6,2322.3,3115.2,0.8784
+149,171,55,Text,"FOR SALE,",1568.2,3245.7,1920.2,3316.3,0.9962
+153,172,56,Section-Header,"Dy Jofhua Richardfon,",1274.0,3307.1,2228.0,3425.2,0.9239
+164,173,57,Text,"4th proof Barcelona BRANDY, of excellent",1291.7,3473.6,2247.2,3564.2,0.8864
+160,174,58,Text,"4t N. Richardfon's Wbarf,",1516.6,3407.4,2289.4,3506.3,0.9558
+168,175,59,Text,a sales INDIA COTTOne para,1294.1,3562.3,2071.8,3644.2,0.6522
+175,176,60,Text,"Superfine and Fine FLOUR,",1285.4,3635.4,1896.7,3711.7,0.9813
+177,177,61,Text,RAVENS DOCK. Nil patre,1286.8,3712.4,2084.9,3793.8,0.6
+194,178,62,Text,do.,1385.0,3903.1,1465.0,3960.3,0.9953
+184,179,63,Text,"RUSSIA SHEETING, STEEL",1288.6,3788.6,1982.3,3865.5,0.8713
+188,180,64,Text,"Philadelphia Bar IRON,",1289.3,3839.5,1817.7,3914.4,0.9533
+197,181,65,Text,,1384.0,3940.2,1944.6,4019.4,0.492
+192,182,66,Text,"CRACKERS, in kogs,",1538.2,3889.5,2016.5,3968.9,0.8977
+204,183,67,Text,Flour and Iron.,1423.1,4010.9,2085.0,4116.8,0.9602
+208,184,68,Text,a,1770.3,4189.8,1832.9,4278.1,0.5844
+258,185,69,Text,Portland.,1207.5,4892.4,1379.9,4949.0,0.8098
+221,186,70,Section-Header,WILLIAM JEWETT.,1543.3,4323.7,2266.9,4429.7,0.9182
+249,187,71,Text,Efgrs. and about ten rods on the ftreet.—Inquire of,1193.1,4771.9,2333.4,4860.6,0.9448
+240,188,72,Text,now in the occupation of Mr. John Chadwick;,1324.5,4617.1,2331.1,4707.1,0.9219
+263,189,73,Text,"Nov. 7, 1801.",1239.0,4936.6,1526.4,4998.6,0.9499
+234,190,74,Section-Header,"To be Sold,",1516.3,4484.7,2009.7,4579.0,0.9981
+259,191,75,Text,JOHN EROTHINGHAM.,1651.1,4872.5,2252.2,4949.1,0.833
+286,192,76,Text,"ABiGAtL BARsTow —For conditions of fale, inquire of",1202.9,5246.6,2341.7,5330.3,0.9228
+294,193,77,Text,"Portiand, Nov. 16.",1225.5,5358.2,1628.7,5428.0,0.9397
+289,194,78,Text,"GEORGE W IRRREN, living oppofite the premiles.",1182.4,5293.2,2312.3,5381.2,0.9203
+297,195,79,List-Group,-,1226.2,5406.5,1349.9,5471.7,0.7985
+304,196,80,Text,FOR SALE from fivc hundredto feyenteen thoufand,1208.0,5559.3,2328.0,5648.8,0.9224
+339,197,81,List-Group,Also,1240.5,6118.7,1365.1,6184.8,0.6965
+309,198,82,Text,"the famous Pifestaquis River, between Kennebeck and",1189.4,5664.6,2340.4,5754.3,0.8978
+318,199,82,Text,immediate settlement,1192.7,5808.4,1664.4,5879.7,0.5904
+325,200,82,Text,"about twenty acres of Trees felled, and a road from it",1194.3,5871.0,2332.8,5954.0,0.9606
+328,201,82,Text,down to Binger.—The Title is derived from the Gov.,1195.3,5922.8,2333.8,6005.6,0.9559
+331,202,82,Text,"einment, and will be perfect, and to an entire fatisfac.",1195.7,5970.0,2335.3,6056.2,0.9488
+335,203,82,Text,tion of the purehafers. It will he fold at a reduced,1196.8,6022.0,2336.2,6107.7,0.9691
+342,204,82,Text,acres cach) in the town of Jav; in which town there,1199.9,6172.0,2338.8,6256.0,0.9533
+347,205,82,Text,are upwards of a hundred Families.—For further partic-,1200.4,6220.1,2340.2,6307.0,0.9506
+351,206,82,Text,"ulats inquire of the Printer, or of",1202.0,6278.0,1926.1,6353.3,0.9539
+355,207,93,Text,"Nerogloucester, Nov. 6.",1244.8,6376.4,1679.7,6449.2,0.8971
+52,208,83,Text,"Portland. Nov, 23.",1821.6,1865.7,2225.3,1937.4,0.9264
+241,209,84,Text,,81.2,4622.4,1128.1,4708.7,0.4327
+281,210,84,Text,,249.9,5223.0,702.2,5285.5,0.0
+322,211,84,Text,,157.5,5850.5,964.0,5925.8,0.0
+373,212,84,Text,,132.6,6855.1,1162.7,6953.4,0.455
+377,213,84,Text,,1200.4,6771.5,2351.1,6860.2,0.4567
+401,214,34,List-Group,,203.9,7234.9,494.0,7305.2,0.0
+404,215,34,List-Group,,629.5,7246.0,1053.5,7316.4,0.3116
+424,216,84,Text,,1215.7,7582.9,2367.0,7673.9,0.4943
+444,217,84,Text,,1214.5,8039.0,2333.8,8126.4,0.4503
+226,218,85,Text,,2156.9,4394.1,2288.0,4482.9,0.0
+230,219,85,Text,,2261.3,4403.4,2308.2,4486.2,0.3912
+271,220,86,Section-Header,"For Sale,",1570.6,5066.3,1956.7,5147.5,0.9917
+278,221,87,Text,n on the,1926.2,5166.7,2185.3,5238.2,0.5199
+300,222,88,Section-Header,"Valuable Lands,",1422.4,5477.4,2089.8,5568.6,0.9573
+319,223,89,Text,have n,1729.7,5802.7,1961.5,5869.4,0.5904
+320,224,90,Text,a,2070.8,5799.7,2115.6,5862.8,0.5904
+340,225,91,Text,about thirty cond feniling 1 Grs thanaens,1454.2,6100.0,2337.6,6180.7,0.6965
+353,226,92,Text,JOSEPH E. FOXCRAFT.,1741.3,6320.9,2300.6,6396.0,0.9486
+359,227,93,Text,,1846.8,6413.5,1928.9,6477.5,0.0
+367,228,93,Text,a,1858.5,6578.3,1906.6,6645.9,0.5797
+374,229,93,Text,"the shop No. 10, in Fig fret, opposite the Inspection",1197.6,6645.3,2369.8,6736.9,0.8839
+361,230,94,Text,"Abner Rogers,",1462.1,6469.9,2077.9,6560.5,0.9951
+368,231,95,Text,nd on,1965.5,6574.4,2108.7,6643.9,0.5797
+385,232,96,Text,And has a good affortemati i ABU anos.,1213.9,6927.5,2333.2,7015.0,0.6026
+389,233,97,Text,"Among which are—cafe Knives, of various defcrip.",1247.0,7004.7,2344.4,7087.9,0.9547
+391,234,97,Text,tions—carvers' pen and jack Kuives—Shovels and,1206.6,7054.9,2355.7,7139.1,0.9774
+395,235,97,Text,"Tongs—fteck Locks-ering and knob ditto—eloffet,",1207.4,7104.0,2356.8,7188.9,0.9203
+398,236,97,Text,"defk, draw, cheft and trunk, ditto—door, desk and table,",1197.6,7152.5,2358.2,7240.0,0.9306
+402,237,97,Text,"Hinges—ringing Bell—pod, and ferew Augurs—Chif.",1198.7,7206.8,2359.1,7293.8,0.9258
+405,238,97,Text,"cis-Gouges—Plain Irons—Hand Saws—pannel, fath,",1199.9,7258.3,2339.2,7343.7,0.9318
+409,239,97,Text,and compas do.—Scalebeams—Iron and Bloektin table,1211.4,7309.5,2350.2,7393.2,0.9465
+412,240,97,Text,and tea Spoons—Sciffors —Razor Strops and Cafes,1212.3,7357.9,2320.3,7442.0,0.9551
+417,241,97,Text,Tailor's Shears--fcrew Plater—large and fmall Files—,1213.1,7407.5,2342.0,7492.8,0.9052
+419,242,97,Text,"plated Sugar Tonga—brafs Draw Handies—Lifting do,",1202.8,7454.8,2343.9,7545.7,0.9124
+422,243,97,Text,—wood Screw—Ink Stand—Horn and Ivory Comba.,1214.2,7506.2,2365.5,7597.3,0.9067
+438,244,98,Text,Cock — &c. &c.,1212.1,7923.8,1543.6,7994.8,0.815
+427,245,98,Text,Brushes - Clasps - Pad Locks Curry Combs Cloak,1207.3,7705.6,2349.1,7799.3,0.8701
+432,246,98,Text,bras Ladies meral Buttons aborer,1259.4,7853.1,2191.8,7945.4,0.6894
+441,247,98,Text,"Alfo, an affortment of ENGLISH GOODs,",1295.9,7962.5,2249.4,8046.5,0.9099
+433,248,99,Text,i,2269.4,7850.6,2322.9,7926.0,0.6894
+456,249,100,Text,"Saloons, Barauta, Taminy, Calamances, Morens,",1205.1,8163.2,2358.5,8260.5,0.8868
+464,250,100,Text,"Shaw and a variety of other articles, all which he",1208.1,8314.1,2340.6,8410.4,0.8773
+471,251,101,Text,"- Portland, this lo 1801.",1718.3,8418.4,2259.0,8499.6,0.6859
+12,252,102,Section-Header,Political.,2738.1,1276.3,3162.8,1381.5,0.9862
+19,253,103,Text,From the (NY.) COMMERCIAL ADVENTIER.,2548.7,1432.0,3461.5,1517.6,0.8041
+35,254,104,Text,the,2230.7,1647.4,2315.5,1719.6,0.67
+42,255,105,Text,,2501.6,1702.9,2606.6,1774.2,0.4465
+26,256,106,Text,NUMBER VII.,2737.1,1530.8,3110.8,1605.3,0.8515
+36,257,107,Text,To the PRESIDENT F . UNITED STATES.,2436.2,1618.7,3467.5,1720.8,0.7517
+57,258,108,Text,-,2153.0,1907.9,2299.8,1981.2,0.9079
+46,259,108,Text,THE fecond obfervation I have to make on,2418.2,1759.8,3501.2,1862.5,0.9637
+50,260,108,Text,"the principles avowed in your anfwer, is, that",2356.4,1817.2,3503.2,1926.4,0.9658
+56,261,108,Text,"the charge alledged azaint your predeceiler, of",2357.6,1879.0,3504.4,1987.9,0.9151
+63,262,108,Text,excluding from all office thofe who were not of,2369.8,1942.4,3504.8,2046.8,0.9332
+65,263,108,Text,"a particular feit, is not well founded. You",2370.7,2003.9,3506.3,2110.4,0.8752
+69,264,108,Text,have teliricted your attusation to the late and,2361.3,2063.2,3507.7,2170.7,0.8989
+73,265,108,Text,"minifration. by which must be understood, he ad",2362.0,2121.7,3499.0,2232.2,0.8711
+77,266,108,Text,ministration of Mr. Adams : for with repet,2363.2,2184.3,3510.5,2294.9,0.8617
+81,267,108,Text,"to Gen, Wafhiegton, you know the charge can",2364.1,2245.0,3501.6,2357.1,0.9149
+88,268,108,Text,"not he supported; nor is it strictly true, in re",2365.8,2307.1,3491.9,2415.7,0.8963
+92,269,108,Text,"gard to Mr. Adams, But as far as the experi",2366.9,2369.6,3493.2,2479.0,0.9482
+96,270,108,Text,"ment was made, boih your predeceffors found",2368.4,2431.6,3514.6,2539.0,0.9642
+100,271,108,Text,abundant reafon 1o quetion the fafety of ap.,2370.1,2494.7,3515.3,2598.8,0.9487
+103,272,108,Text,po nting the oppofers of their adminiftrations to,2360.7,2556.1,3516.8,2661.9,0.9603
+109,273,108,Text,"responible offices, especially where large fuma",2371.9,2616.4,3518.4,2724.6,0.8685
+113,274,108,Text,of money were to be intruied to their care.,2373.1,2678.7,3478.0,2785.7,0.932
+120,275,108,Text,begun his adminiftration upon the mot concil.,2354.8,2798.8,3511.4,2906.4,0.9409
+123,276,108,Text,iatory prineiples. In ditributing the offices a.,2366.5,2862.1,3502.0,2968.1,0.9029
+146,277,109,Text,,2198.9,3185.0,2282.1,3252.8,0.0
+117,278,110,Text,"I wll be recollected that Gen. Wafhington,",2426.2,2739.5,3499.7,2845.0,0.9189
+142,279,111,Text,(84-6),2115.0,3134.3,2281.0,3203.3,0.8438
+139,280,112,Text,i,2361.3,3155.1,2374.6,3240.2,0.5406
+127,281,113,Section-Header,,2357.6,2950.0,3524.8,3058.6,0.0
+134,282,114,Text,confequence ? He was of pofed and betrayed by,2359.1,3040.6,3516.4,3150.4,0.9264
+140,283,114,Text,n whom he had inted to hi,2673.1,3133.3,3512.9,3234.2,0.5406
+150,284,114,Text,"100, Sir, when Secretary of State, were at the",2384.1,3227.7,3508.8,3332.2,0.8918
+154,285,114,Text,head of a party incessantly throwing oblicles,2384.2,3284.5,3511.0,3395.3,0.8569
+157,286,114,Text,in the way of his administration and I have,2365.1,3347.1,3511.7,3455.7,0.887
+162,287,114,Text,"bei reremarked, that when youpraife the mn,",2355.8,3408.8,3513.2,3518.7,0.9178
+166,288,114,Text,"in your inaugaral address, you are filent on his",2367.8,3473.7,3513.8,3580.3,0.8693
+170,289,114,Text,adminffration. It is alfo weli knowa that yon,2368.8,3535.7,3515.3,3644.0,0.91
+173,290,114,Text,"countenanced a newspaper, which was published",2369.6,3594.1,3516.7,3704.1,0.8829
+178,291,114,Text,for the purpofe of inveighing againit the ricaf,2370.7,3657.6,3497.3,3768.1,0.9014
+182,292,114,Text,ures of Gen Washington.,2372.3,3727.6,3021.4,3825.9,0.8993
+195,293,115,Text,No. 2,2149.9,3898.7,2317.1,3971.5,0.8542
+186,294,116,Text,"When ou religned, your place was file thy",2414.7,3778.0,3499.5,3886.7,0.8414
+198,295,116,Text,was the confequence? Let the arfwer be foun!,2376.4,3902.0,3521.7,4006.3,0.939
+190,296,117,Text,"Mr. Randolph, a man of the fame set. What",2374.7,3840.4,3500.4,3948.0,0.8522
+209,297,118,Text,"floor,",2185.5,4180.4,2325.5,4270.1,0.5844
+202,298,119,Text,"in the in precious confellions "" which betray the",2367.7,3967.9,3512.1,4069.6,0.897
+206,299,119,Text,feerets of government to a foreign and i fidious,2369.0,4028.4,3523.5,4129.6,0.9021
+212,300,119,Text,minister in the history of the four mechanis,2369.7,4090.7,3514.8,4194.7,0.8707
+215,301,119,Text,and in his default of resunding money to the,2381.3,4152.6,3516.1,4256.7,0.9568
+217,302,119,Text,"United States, to the amount of ffty or fixty",2382.4,4213.0,3517.3,4317.0,0.9655
+219,303,119,Text,"thoufand dollars, for which a fuit is, or was",2372.6,4271.5,3519.0,4378.8,0.9472
+224,304,119,Text,"lately depewcing, with little probabity of re",2383.9,4334.2,3510.1,4443.3,0.9033
+229,305,119,Text,covering the money.,2386.0,4406.2,2878.2,4497.1,0.964
+233,306,120,Text,"The hiftory of Gen. Lamb, Colletor of the",2448.4,4450.5,3512.2,4557.7,0.9517
+238,307,120,Text,"port of New. York, another of the lame polit,",2388.0,4514.3,3512.9,4619.4,0.92
+244,308,120,Text,"cal fed with yourself, who also was found delin.",2378.6,4576.2,3514.3,4683.0,0.898
+246,309,120,Text,quent to the amount of fity theufand doilars,2380.2,4639.9,3515.1,4743.9,0.9478
+251,310,120,Text,or more [a part of which I am sold wil be loit),2381.1,4698.6,3516.4,4803.9,0.9239
+254,311,120,Text,afforded another melancholy instance tow i,2371.9,4759.7,3496.9,4865.0,0.9118
+257,312,120,Text,tie confidence could be pared in your fat.,2373.2,4822.4,3415.1,4925.5,0.8885
+262,313,120,Text,"Another officer of the revenue in Boston, by",2436.8,4880.2,3498.8,4981.4,0.9457
+266,314,120,Text,"the name of Jarvis, of the fame republican feg.",2375.6,4941.8,3520.9,5046.1,0.9299
+270,315,120,Text,"was guilty of a fimilar breach of trut, if I anf",2377.0,5003.8,3501.1,5106.5,0.9212
+275,316,120,Text,"tike not, to the amount of thirty thoufind doi.",2378.5,5065.6,3502.0,5166.3,0.9475
+280,317,120,Text,lars.,2381.6,5144.9,2485.5,5212.3,0.8352
+285,318,121,Text,"Mr. Monroe, minister ta Eeance, another of",2422.3,5184.9,3525.0,5285.3,0.9223
+288,319,122,Text,"this favorite fed, who violated is in truction.",2382.0,5246.5,3505.5,5347.3,0.8902
+293,320,122,Text,adde ansther example to the lift of faithleis pub,2382.9,5305.2,3506.8,5407.2,0.9212
+296,321,123,Text,"lic fervants,",2385.4,5381.2,2667.1,5457.6,0.9309
+299,322,124,Text,"If, after all thefe indtances of breach of con",2426.6,5424.7,3509.1,5526.1,0.9024
+301,323,124,Text,"fdence in the fef, which boalted of iss exlu",2386.3,5486.6,3510.4,5589.4,0.9057
+306,324,124,Text,"five tile to republicanifm, Gên. Wathington,",2366.3,5546.1,3512.0,5651.5,0.9167
+311,325,124,Text,"and Mr. Adams, began to queltion the fatety",2387.4,5603.1,3524.3,5713.3,0.9113
+315,326,124,Text,"of appointing pretended republicanr to office, can",2389.0,5666.2,3525.1,5774.1,0.9133
+317,327,124,Text,any fober citizen blame their doubt ? Some,2390.8,5730.4,3515.2,5833.6,0.8827
+323,328,124,Text,honeft men of the party obtained offices an!,2371.2,5792.2,3516.5,5896.4,0.9342
+327,329,124,Text,continued to enjoy them unmedested. Some,2372.6,5853.1,3517.5,5956.2,0.8415
+329,330,124,Text,"of your party ruceiwed appointments from Mr,",2394.0,5915.3,3519.2,6021.0,0.9171
+334,331,124,Text,"Adams, especially military and naval officers,",2395.4,5976.2,3520.1,6080.6,0.8967
+338,332,124,Text,"And ean you, Sir, overlook the nominatien of",2386.0,6034.8,3531.8,6140.6,0.963
+341,333,124,Text,"Mr. Getty, to be one of our Envoys to France?",2376.3,6094.9,3523.1,6204.0,0.8892
+343,334,124,Text,"For the honor of my country, degraded and it.",2387.9,6155.8,3524.3,6264.6,0.8854
+348,335,124,Text,"fulted through his mean fervilty, and for the",2378.8,6214.1,3525.2,6321.5,0.9442
+352,336,124,Text,"henor of honest Mr. Adams, I with it had not",2379.8,6272.4,3526.5,6381.1,0.9307
+356,337,124,Text,been in my power to add that appointment to,2391.7,6335.2,3527.3,6441.6,0.9546
+360,338,124,Text,the numerous other proofs of the unfinels of,2392.8,6395.5,3528.5,6502.2,0.9474
+357,339,125,Text,(85—6w),2096.3,6381.1,2299.8,6438.2,0.9349
+369,340,126,Text,e that,2179.5,6569.8,2347.2,6639.8,0.5797
+363,341,127,Text,,2384.1,6485.7,3530.4,6593.3,0.0
+388,342,128,Text,,2392.6,6971.2,3519.9,7083.8,0.0
+403,343,128,Text,,2387.5,7216.6,3524.1,7325.9,0.0
+445,344,129,Text,,2361.3,8006.0,3518.3,8114.5,0.4604
+372,345,128,Text,alt excluded from offices ; and as far as the prin.,2385.5,6576.4,3532.5,6685.8,0.9161
+376,346,128,Text,ciple ol exclufion was extended by your prede,2387.0,6638.8,3522.9,6746.0,0.9335
+379,347,128,Text,"effors, it must be ascribed to we founded fif",2388.4,6698.3,3523.8,6803.9,0.8563
+381,348,128,Text,"picions of their fidelity. Noman. I bslieve,",2389.7,6762.1,3524.9,6867.4,0.9497
+383,349,128,Text,was ever precluded trom office folely on the,2390.5,6822.5,3536.8,6929.8,0.9622
+386,350,128,Text,"gtound of his fpeculative opinions,",2412.2,6887.3,3237.7,6989.7,0.9013
+393,351,128,Text,"ces were monopolized by one fedt,"" require.",2394.9,7064.4,3521.1,7173.4,0.9143
+399,352,128,Text,great modifications te be intitled to the char.,2396.9,7126.9,3521.4,7231.0,0.9473
+411,353,128,Text,"origin, recived their princ ple increafe and their",2378.8,7307.0,3525.7,7416.5,0.918
+416,354,128,Text,"peculiar sharatter, long after the date of moft",2391.0,7368.7,3526.3,7474.1,0.9107
+420,355,128,Text,of the appointments to civil offces. There was,2381.7,7428.8,3527.6,7535.2,0.9714
+423,356,128,Text,an ani-ederal party existing at the time the,2382.6,7490.2,3528.9,7597.4,0.8919
+426,357,128,Text,Rovernment was framed and ag the time it wat,2383.8,7551.3,3530.1,7659.0,0.9117
+428,358,128,Text,put in operation; and the lesders in oppsition,2384.9,7611.7,3531.4,7720.1,0.9085
+429,359,128,Text,"then, were the germs of the prefent party, as",2375.9,7673.4,3532.3,7780.2,0.9604
+431,360,128,Text,they are now the leaders.,2377.4,7743.8,3004.7,7838.4,0.9722
+435,361,129,Text,But Gen. Walhington came into office by a,2430.6,7797.6,3513.4,7899.5,0.955
+434,362,129,Text,n an into one by a,2938.4,7827.7,3516.6,7913.1,0.6894
+439,363,129,Text,"litical events which gave a new character and,",2370.8,7918.1,3536.4,8021.5,0.9152
+457,364,129,Text,ted that one third or one half of your said ha,2373.4,8097.7,3509.8,8206.3,0.8537
+459,365,129,Text,been a clear augmentation to your trength,2374.7,8160.1,3521.1,8268.3,0.8984
+462,366,129,Text,e,2880.7,8263.9,2943.0,8351.8,0.5123
+468,367,130,Text,"governmeul, the anti federal party reecived",2367.7,8343.0,3524.8,8452.0,0.9305
+472,368,130,Text,"their due proportion of offices, taking into eti",2369.5,8404.2,3504.6,8508.9,0.8688
+6,369,131,Text,volunts IV.,4249.6,1033.2,4688.9,1119.6,0.8363
+408,370,132,Text,,3507.8,7250.8,3544.6,7334.2,0.0
+461,371,133,Text,able a ha,2366.0,8267.4,2760.1,8361.7,0.5123
+10,372,134,Section-Header,charaer in ,3547.5,1224.9,4704.3,1333.3,0.5998
+13,373,135,Text,"well filed, they have been considered as par",3548.2,1312.1,4696.6,1426.2,0.8922
+18,374,135,Text,manently filed; the former Presidents never,3549.9,1374.2,4707.6,1485.3,0.8463
+24,375,135,Text,having difplaced men without fubtantid oh.,3541.3,1434.2,4697.8,1541.7,0.9304
+27,376,135,Text,jections to their conduct in affice. There has,3532.0,1497.8,4699.2,1606.2,0.8642
+31,377,135,Text,thus been a coniderable change in the llate of,3543.6,1558.7,4700.3,1666.8,0.9024
+37,378,135,Text,"parties. & very few changes in offices, The con.",3545.5,1622.1,4700.7,1725.2,0.9232
+43,379,135,Text,fequence has been that the proportion between,3546.2,1682.2,4702.4,1788.5,0.9375
+47,380,135,Text,"the set of opposition, and the number of of",3536.7,1743.4,4704.0,1852.0,0.8471
+53,381,135,Text,ces felt by them. has been materially varied.,3538.6,1806.6,4694.0,1910.2,0.9552
+58,382,136,Text,"Fer inslance, in Connecticut. Newhamthire and",3539.7,1866.4,4695.2,1970.5,0.9195
+64,383,137,Text,"Rhode Ifsod, and perhaps in Maffichuferts,",3541.0,1928.5,4706.7,2032.5,0.902
+67,384,137,Text,the prefent oppofiion has grown ttom almoit,3542.2,1991.1,4697.5,2094.6,0.9061
+71,385,137,Text,"nothing. In fome ltates it did not'exilt, when",3554.1,2051.9,4698.2,2152.6,0.9185
+74,386,137,Text,the offices in the national government were fil.,3543.7,2107.3,4700.4,2215.3,0.92
+78,387,137,Text,led. The offices were then filled from the enl,3544.9,2167.3,4701.7,2275.5,0.8808
+83,388,137,Text,farty that exilled. In thefe cafes the monspoly,3546.3,2230.3,4702.7,2337.0,0.9221
+89,389,137,Text," ice as you are pleafed to term it, has nota.",3548.1,2293.4,4692.8,2395.9,0.9416
+93,390,137,Text,rilen from any exclusion of others from office by,3549.0,2354.4,4694.3,2459.1,0.8989
+97,391,138,Text,"the Executive, but by a new party ipringing",3539.9,2416.6,4695.4,2520.8,0.9478
+101,392,138,Text,up since the appointments were made that is,3551.4,2477.2,4696.6,2581.1,0.8855
+104,393,138,Text,by a feceffion from the majority.,3553.1,2545.2,4345.0,2639.2,0.9301
+107,394,139,Text,The eafe is precifly fimilar to that of a town,3595.0,2597.7,4699.1,2702.2,0.9591
+114,395,139,Text,"or city incorporated, in which, at the firft ehoice",3554.8,2659.9,4700.2,2764.9,0.9375
+118,396,139,Text,"of officers, all the free citizens should agre in",3556.2,2722.0,4701.2,2825.2,0.9407
+121,397,139,Text,the ei bice. But in a few months one half of,3557.7,2783.9,4702.0,2884.9,0.9445
+124,398,139,Text,"them, growing difcontented, form a party a-",3558.6,2844.2,4703.5,2947.8,0.9157
+130,399,139,Text,gainst the officers and their adherents and ex.,3559.9,2905.3,4694.2,3007.1,0.88
+132,400,139,Text,claim most bitterly against them for a u men.,3561.6,2968.0,4694.8,3066.7,0.8989
+135,401,139,Text,"opely of offices."" And this, Sir, on your prin-",3562.6,3028.4,4696.1,3127.9,0.9299
+141,402,139,Text,"ciples, mult forever be the cafe. On whatever",3563.9,3085.8,4697.1,3184.5,0.9597
+147,403,139,Text,"men offices are bestowed, their opposers wil be",3554.6,3148.1,4698.4,3247.6,0.9049
+151,404,139,Text,"formirg parties, and crying out, 6 we are de.",3566.2,3207.8,4689.0,3306.3,0.9098
+155,405,139,Text,prived of our rights ; we have no share in the,3556.9,3267.9,4711.0,3367.5,0.9304
+158,406,139,Text,"ofhices."" The very men, Sir, who have aided",3548.1,3331.2,4691.0,3428.2,0.9118
+163,407,139,Text,"you in yeur career, and who are now offering",3559.5,3392.1,4692.5,3490.3,0.9418
+167,408,139,Text,you incente for bellowing offices on their fol.,3550.1,3451.5,4693.8,3550.8,0.8936
+171,409,139,Text,"will defe t you in a few years, perhaps moaths,",3550.9,3513.5,4695.3,3615.2,0.9317
+174,410,139,Text,"form another parts, and rail moft vehemently",3552.1,3573.5,4696.5,3675.1,0.9265
+179,411,139,Text,"againil you and your favorites, for monopaliz",3553.8,3637.7,4676.4,3735.8,0.8998
+183,412,139,Text,ing the offices of government. This confe.,3555.2,3699.8,4687.7,3796.4,0.9369
+187,413,139,Text,"quence is as certain, as your principles Me ab.",3557.0,3761.6,4677.9,3854.4,0.9423
+191,414,139,Text,"tord, and will involve you in inextricable em,",3558.6,3823.7,4678.7,3913.5,0.9627
+196,415,139,Text,barraffirment.,3549.9,3895.3,3850.1,3965.3,0.8827
+203,416,140,Text,,4040.0,3967.4,4305.9,4026.5,0.3907
+207,417,141,Section-Header,EXTRACTS,3937.0,4046.2,4287.6,4112.6,0.9636
+214,418,142,Text,"the Preis in the United States, a pamphlet uit puh.",3595.5,4158.9,4696.2,4252.5,0.7765
+222,419,142,Text, THE condut and tenor of execntive and,3608.6,4297.3,4698.7,4390.0,0.947
+225,420,142,Text,judicial appointments ought to be the subjet of,3557.1,4357.5,4690.5,4456.9,0.8998
+232,421,142,Text,teriting. Where the appointments are below.,3548.0,4417.2,4691.5,4516.4,0.8807
+236,422,142,Text,ed upon perfous of a particnlar way of think.,3548.5,4475.9,4703.7,4579.1,0.9416
+243,423,142,Text,"ing, or on the lead is of a party, we have a",3571.0,4539.7,4693.9,4638.4,0.8949
+245,424,142,Text,"jalt ticht to difeover f om this, the drift of the",3550.7,4595.6,4695.7,4699.4,0.9095
+248,425,142,Text,"adminiftration, and as clear a privilese openly",3562.7,4660.2,4696.5,4760.9,0.9511
+253,426,142,Text,"to promuge the trath, as to the facts of ap.",3564.0,4723.9,4697.5,4823.6,0.9273
+256,427,142,Text,"pointment, and to give out our spinion of the",3555.1,4782.8,4698.4,4881.2,0.9472
+261,428,142,Text,tendency of the measures. Where there is a,3556.1,4843.2,4699.7,4942.0,0.8877
+265,429,142,Text,"divifion of fe'eralits and democrats, as tha",3556.9,4898.8,4701.1,4999.9,0.939
+268,430,142,Text,"parties are now called, and the prefident, eor th;",3558.3,4963.0,4702.1,5062.7,0.9396
+272,431,142,Text,"governor, wid make an attichment to the one",3559.7,5023.4,4703.0,5121.6,0.9321
+279,432,142,Text,"party of the other a qualification to office, and",3560.3,5082.3,4704.7,5183.7,0.8784
+292,433,143,Text,"ther, we have a right to con lamin the practice",3563.6,5262.8,4698.0,5365.3,0.8856
+295,434,144,Text,"as bring a fpecies of corruption, deftructive to",3564.9,5322.1,4698.9,5423.6,0.927
+284,435,145,Section-Header,che him ,3561.6,5173.3,4707.1,5278.4,0.5056
+298,436,146,Text,,3566.7,5415.9,4700.9,5517.5,0.0
+324,437,146,Text,,3573.9,5837.6,4709.9,5944.8,0.3679
+346,438,146,Text,,3559.8,6198.1,4706.7,6307.5,0.4163
+303,439,147,Text,"creats factions, and to maintain dangetous and",3567.9,5503.2,4713.4,5608.0,0.9481
+310,440,148,Text,"ter parties, as long as the governmient (hall",3548.3,5564.8,4704.3,5670.2,0.9088
+314,441,149,Text,exi,3570.5,5633.5,3720.3,5716.1,0.6876
+316,442,150,Text,""" It has heen faid that the president cannor",3612.8,5686.5,4706.6,5790.9,0.901
+321,443,151,Text,adminiter the goverament on his own priaci.,3572.2,5746.6,4697.8,5853.8,0.9189
+332,444,152,Text,in ,3556.3,6018.6,4713.8,6128.6,0.5615
+354,445,153,Text,"to its as to the fixed, unerring and unalterable",3563.5,6404.1,4711.1,6515.6,0.9438
+375,446,154,Text,"r ou flves, and have only to embrace the",3599.9,6598.3,4713.0,6698.6,0.9636
+378,447,154,Text,creed of the chief magitrate. Thofe who ex.,3569.8,6658.1,4714.3,6760.0,0.9093
+380,448,154,Text,"pett to live by the prelident's patronage, finding",3570.7,6719.7,4715.8,6823.7,0.9235
+382,449,154,Text,"the offices all full, will begin to intrigue for a",3572.1,6780.6,4706.4,6882.4,0.9658
+384,450,154,Text,"new prefilent, whofe political principles are in",3573.4,6841.8,4707.4,6943.3,0.9473
+387,451,154,Text,diect oppofition to the one in office. The,3565.1,6904.7,4707.6,7000.2,0.9441
+390,452,154,Text,"men who view themfelves as candidates, wilt",3556.1,6966.3,4708.7,7061.2,0.9732
+392,453,154,Text,"of courfe open a controverfy with him, and",3557.0,7024.6,4710.0,7120.9,0.9437
+396,454,154,Text,"either explicily or implicitly, form contracts to",3557.3,7082.7,4701.6,7184.2,0.9612
+400,455,154,Text,promote the leaders of their party. Thus the,3569.1,7145.4,4702.6,7245.0,0.9633
+406,456,154,Text,"contti ution will be forfaken, and the plans and",3560.0,7206.5,4703.7,7305.7,0.9332
+410,457,154,Text,machinations of parties form the plan of ad.,3561.6,7270.1,4704.4,7366.7,0.9742
+415,458,154,Text,miniftration.,3564.6,7342.9,3895.1,7410.9,0.9515
+418,459,155,Text,,3958.8,7406.6,4312.1,7481.2,0.2927
+425,460,155,Text,,3567.9,7561.3,4698.8,7653.0,0.4856
+421,461,156,Text,"From a Chari fion (Southeard na) Paper, B., 27,",3648.8,7458.8,4614.1,7547.5,0.8175
+430,462,157,Text,* YOU have no doubt heard efghe cleftion,3622.3,7710.7,4702.1,7803.4,0.9321
+436,463,157,Text,of Senate in this ftate —It is one of thofe evil,3572.1,7774.8,4702.8,7865.7,0.9046
+437,464,157,Text,events from whenee good must refoli. Men,3573.1,7837.4,4704.3,7929.7,0.8935
+440,465,157,Text,have been chofen without attention to abilities,3573.4,7895.3,4696.0,7992.7,0.8851
+446,466,157,Text,or respectability; but merely with a veie to,3574.1,7956.0,4697.6,8056.7,0.8486
+453,467,157,Text,"organize the Legisters for party purposes,",3564.8,8016.7,4699.0,8118.4,0.8341
+458,468,157,Text,"Charies Carrol, of Carroston, wiw, renteret",3576.5,8079.0,4710.4,8179.9,0.8599
+460,469,157,Text,himself particularly conficianus during the Ac,3567.1,8138.1,4711.7,8240.5,0.8294
+463,470,157,Text,"merican war, has been difinisted for the want of",3568.2,8200.4,4712.9,8303.0,0.8844
+466,471,157,Text,republicanism. At the commencement of dur,3559.0,8257.6,4703.7,8360.2,0.8116
+469,472,157,Text,revolu i ny Mr. Carrol pollised more prepenty,3569.7,8319.0,4705.8,8427.0,0.8097
+473,473,157,Text,"than any five inhabitants to our county, e",3560.9,8379.1,4696.1,8484.1,0.8036

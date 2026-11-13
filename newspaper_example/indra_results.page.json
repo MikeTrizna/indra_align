@@ -1,0 +1,1753 @@
+{
+ "image": "newspaper_example/sn83016063_1801-11-30_1_1.jpg",
+ "width": 5437,
+ "height": 9451,
+ "rotation": 0,
+ "skew": -1.1,
+ "vertical": false,
+ "source": "ocr",
+ "note": "order=model",
+ "n_lines": 474,
+ "n_blocks": 158,
+ "blocks": [
+  {
+   "block_id": 0,
+   "label": "Page-Header",
+   "bbox": [
+    252.7,
+    229.3,
+    1778.7,
+    625.6
+   ],
+   "text": "\n"
+  },
+  {
+   "block_id": 1,
+   "label": "Section-Header",
+   "bbox": [
+    614.2,
+    563.1,
+    4070.8,
+    844.1
+   ],
+   "text": "JENKS PORTEAND GAZETTE."
+  },
+  {
+   "block_id": 2,
+   "label": "Section-Header",
+   "bbox": [
+    716.7,
+    818.5,
+    3903.4,
+    995.4
+   ],
+   "text": "URLES BY CERT ALLEY FONS FOR HEREOF THE LAWS OF THE UNITED STATEA FOR THE DEFICE OF WAR"
+  },
+  {
+   "block_id": 3,
+   "label": "Text",
+   "bbox": [
+    132.7,
+    1045.0,
+    545.6,
+    1145.4
+   ],
+   "text": "50 500 188."
+  },
+  {
+   "block_id": 4,
+   "label": "Section-Header",
+   "bbox": [
+    368.1,
+    1212.1,
+    834.5,
+    1286.4
+   ],
+   "text": "BANKRUPTCY."
+  },
+  {
+   "block_id": 5,
+   "label": "Section-Header",
+   "bbox": [
+    111.4,
+    1319.3,
+    1126.7,
+    1403.2
+   ],
+   "text": ""
+  },
+  {
+   "block_id": 6,
+   "label": "Section-Header",
+   "bbox": [
+    1521.5,
+    1113.8,
+    1896.1,
+    1223.5
+   ],
+   "text": ""
+  },
+  {
+   "block_id": 7,
+   "label": "List-Group",
+   "bbox": [
+    92.4,
+    1401.4,
+    1145.2,
+    2396.5
+   ],
+   "text": "a\na\n in the Distriet of Maine, Trader and Iron-\nnd the said Richa Ayer has been declared a\nn he is hereby required to furtender himself\nmissioners, in the said Commission hamed,\nwith\nDecember next, and be the 16th of\na\ns at the house of Daniel Gr\ne\nand, in said District, and make a fuit dif\ne\nditors are to come separed in\no\nnes, and at the all mentine\na\n i required to finith his examination; —And\nitlaftmecting, any of the Creditors of faid\nme may be heard before said Commissioners.\na the making or allow ng of a certificate to the\no\nnicate of discharge.\nIl persons indebted to"
+  },
+  {
+   "block_id": 8,
+   "label": "List-Group",
+   "bbox": [
+    1151.3,
+    1502.2,
+    1543.8,
+    1976.3
+   ],
+   "text": "i\nmore\nas above,\n\nt"
+  },
+  {
+   "block_id": 9,
+   "label": "List-Group",
+   "bbox": [
+    109.2,
+    2265.4,
+    1139.7,
+    2641.4
+   ],
+   "text": "f find district to entitle the said Bankrupt to\npinkrupt, are to make payment; and those who\ny of his effects, are ta deliver the fame to fuch\nin or persons only as the Commissioners shall ap\nJOSEPH HUCKINs,\nJOHN PAIN,"
+  },
+  {
+   "block_id": 10,
+   "label": "List-Group",
+   "bbox": [
+    531.6,
+    2622.2,
+    1025.6,
+    2686.2
+   ],
+   "text": "James Bradbury,"
+  },
+  {
+   "block_id": 11,
+   "label": "List-Group",
+   "bbox": [
+    346.9,
+    2679.8,
+    922.1,
+    2740.3
+   ],
+   "text": ""
+  },
+  {
+   "block_id": 12,
+   "label": "Text",
+   "bbox": [
+    107.1,
+    2632.3,
+    1159.8,
+    3178.3
+   ],
+   "text": "No. 23.\nof E is hereby given, that the subscriber has\nben duly appointed Affignee of the Estate and-\nis of Zephaniah Harlow, Jun and Freemen Harlow,\nBeb in the District of Maine. Bankrupts :All\nwas having in their portellion any property belong-\nto thefad Harlows, are called upon io furrender\nefame; andthofe indebted, to make immediare pay.\nment to"
+  },
+  {
+   "block_id": 13,
+   "label": "Text",
+   "bbox": [
+    126.6,
+    3151.1,
+    580.3,
+    3218.1
+   ],
+   "text": "Parden, Mo. 23, 1801."
+  },
+  {
+   "block_id": 14,
+   "label": "List-Group",
+   "bbox": [
+    346.4,
+    2680.2,
+    1078.8,
+    3255.9
+   ],
+   "text": "--\n\nANDREW GREENWOOD."
+  },
+  {
+   "block_id": 15,
+   "label": "Text",
+   "bbox": [
+    97.0,
+    3254.0,
+    1155.0,
+    3997.6
+   ],
+   "text": "NOTIFICATION.\ni the fabferibers, Commiffioners appointed by\nI the Hon Edward Cutts, Esq. Judge of the Pro-\nt,  Wills, &c. for the county of York, to reccive\nulemne the claims of the feveral Creditors to the\ndated SAMUEL ROFF, late of Bille ford, mariner\nalel, reprefented infolvent—hereby give notice.\nwitmonths from the 26th of October, 1801 is al-\ned to bring in and prove their claims that we shall\nand that service at the house of Josepa Srevens,\nAmmitator on faid estate, in Biddeford, on the fe.\ned Turiday of November inftant, and the fecond\nTe laysof the four next following months, from one\nDive o'clock, P. M. on each day."
+  },
+  {
+   "block_id": 16,
+   "label": "Text",
+   "bbox": [
+    110.7,
+    3968.3,
+    1145.5,
+    4561.2
+   ],
+   "text": "-\nELIHU COFFIN,\nCHRISTOPHER GILPATRICK, A,\nBilford, Nov. 2, 1801.\nQIRAYED from the fubfcriber, about the 7th inft.\nD a dark red COW, about 5 or 6 years old, with\ne picked horns, and a very long tail.—Whoever\ngire information of faid Cow, fo that the owner\n get her agato, fhall be handfomely rewarded for\nir trouble.\nPortlar 1, Nov 23."
+  },
+  {
+   "block_id": 17,
+   "label": "List-Group",
+   "bbox": [
+    113.2,
+    4558.1,
+    253.5,
+    4611.0
+   ],
+   "text": ""
+  },
+  {
+   "block_id": 18,
+   "label": "Text",
+   "bbox": [
+    113.2,
+    4701.5,
+    1149.0,
+    5239.0
+   ],
+   "text": "10 sged about 18 vears. Hid on when he went\nin a green coat and diue trowens he is about five\nhar inches high. Whoever will apprehend said\nMass bring him to the subferiber, shall receive one\non toward, and no charges paid. And I do hereby\nhd all perfons harboring or truting him, and alt\nset of reles from thipping or receiving him on\nsed their veniels, as they would avoid the penalty of\nPeperillirugb, Nov 4, 1801."
+  },
+  {
+   "block_id": 19,
+   "label": "List-Group",
+   "bbox": [
+    1178.9,
+    2351.8,
+    1583.9,
+    2597.2
+   ],
+   "text": "ment of\nPartland, Nov. 7."
+  },
+  {
+   "block_id": 20,
+   "label": "List-Group",
+   "bbox": [
+    956.4,
+    3187.8,
+    1388.8,
+    3255.8
+   ],
+   "text": "\n"
+  },
+  {
+   "block_id": 21,
+   "label": "Text",
+   "bbox": [
+    940.1,
+    3982.3,
+    1115.0,
+    4046.7
+   ],
+   "text": "Commis"
+  },
+  {
+   "block_id": 22,
+   "label": "List-Group",
+   "bbox": [
+    995.3,
+    4131.5,
+    1086.1,
+    4190.5
+   ],
+   "text": "-"
+  },
+  {
+   "block_id": 23,
+   "label": "Text",
+   "bbox": [
+    648.5,
+    4441.7,
+    1061.5,
+    4509.9
+   ],
+   "text": "JACOB ROLFE."
+  },
+  {
+   "block_id": 24,
+   "label": "Text",
+   "bbox": [
+    1003.0,
+    4544.4,
+    1125.5,
+    4605.8
+   ],
+   "text": ""
+  },
+  {
+   "block_id": 25,
+   "label": "Text",
+   "bbox": [
+    1199.6,
+    4637.9,
+    1250.4,
+    4709.5
+   ],
+   "text": "L"
+  },
+  {
+   "block_id": 26,
+   "label": "Text",
+   "bbox": [
+    1208.8,
+    4607.3,
+    1285.0,
+    4685.3
+   ],
+   "text": "A"
+  },
+  {
+   "block_id": 27,
+   "label": "List-Group",
+   "bbox": [
+    144.1,
+    5112.3,
+    1054.0,
+    5195.7
+   ],
+   "text": "\nJOHN BURBANK."
+  },
+  {
+   "block_id": 28,
+   "label": "List-Group",
+   "bbox": [
+    725.9,
+    5222.6,
+    754.8,
+    5281.4
+   ],
+   "text": "-"
+  },
+  {
+   "block_id": 29,
+   "label": "List-Group",
+   "bbox": [
+    281.1,
+    5270.2,
+    1144.2,
+    5498.8
+   ],
+   "text": "HVE CENTS REWARD.\nne of De NJAMIN RICH,"
+  },
+  {
+   "block_id": 30,
+   "label": "List-Group",
+   "bbox": [
+    1200.7,
+    5185.5,
+    1210.9,
+    5252.1
+   ],
+   "text": "a"
+  },
+  {
+   "block_id": 31,
+   "label": "List-Group",
+   "bbox": [
+    126.1,
+    5410.4,
+    1150.6,
+    5831.1
+   ],
+   "text": "a\nher perien who will bring back fa denaway, that.\ne me above reward, but no charges paid\n0\n4 al perions barboring or Truding bein,\na\nred the penalty of the law,"
+  },
+  {
+   "block_id": 32,
+   "label": "List-Group",
+   "bbox": [
+    746.0,
+    5215.9,
+    931.5,
+    5280.8
+   ],
+   "text": "-"
+  },
+  {
+   "block_id": 33,
+   "label": "List-Group",
+   "bbox": [
+    136.0,
+    5902.1,
+    1360.5,
+    6713.6
+   ],
+   "text": "TEN CENTS REWARD.\nSAWAY from the fubfcriber, an indented ap.\nroute by the name of Samuel Williams, about\na\nt, dark skin, had on a blue coat. Atriped\ne\nrbaring him, or any masters of vessels carry -\na\ntive the above reward of OBE\ni\nTWENTY DOLLARS KEWARD,\nn the Tenter Hooks of me the subscriber\n\ni\n\nn"
+  },
+  {
+   "block_id": 34,
+   "label": "List-Group",
+   "bbox": [
+    169.4,
+    7128.3,
+    1345.6,
+    8509.9
+   ],
+   "text": "PETER MERRILL, Jos.\nenty of Tork, tab Mants , 66 Day, 1801.\nSTOP THE IP.\nbis no e out; When toen, had a\na\n\n\n\na\n\n\n\n(4)\n\nyou becoming, and has left\ne act or alter this date.\nMOSES CROSS\nceived."
+  },
+  {
+   "block_id": 35,
+   "label": "Section-Header",
+   "bbox": [
+    1672.4,
+    1001.6,
+    2975.0,
+    1147.3
+   ],
+   "text": "MONDAY, Norams 30, 1801."
+  },
+  {
+   "block_id": 36,
+   "label": "Section-Header",
+   "bbox": [
+    1303.9,
+    1200.7,
+    2200.3,
+    1332.2
+   ],
+   "text": "Fall B WintemGoods,"
+  },
+  {
+   "block_id": 37,
+   "label": "Text",
+   "bbox": [
+    1161.8,
+    1566.5,
+    2314.3,
+    1661.2
+   ],
+   "text": "GLISH, WESTINDIA, and HARDWARE 50005"
+  },
+  {
+   "block_id": 38,
+   "label": "Section-Header",
+   "bbox": [
+    1413.1,
+    1375.8,
+    2056.1,
+    1487.3
+   ],
+   "text": "William Lord,"
+  },
+  {
+   "block_id": 39,
+   "label": "Text",
+   "bbox": [
+    1314.5,
+    1487.3,
+    2313.3,
+    1582.1
+   ],
+   "text": "n thed, and bow ready for sale, at his"
+  },
+  {
+   "block_id": 40,
+   "label": "List-Group",
+   "bbox": [
+    1154.1,
+    1724.4,
+    2048.1,
+    1815.7
+   ],
+   "text": "and every favor gratefully arknowledged,"
+  },
+  {
+   "block_id": 41,
+   "label": "Text",
+   "bbox": [
+    1237.3,
+    1782.7,
+    2319.8,
+    1883.6
+   ],
+   "text": "30 bbls. fuperfine FLOUR, for fale"
+  },
+  {
+   "block_id": 42,
+   "label": "List-Group",
+   "bbox": [
+    2094.6,
+    1650.7,
+    2145.4,
+    1722.2
+   ],
+   "text": "o"
+  },
+  {
+   "block_id": 43,
+   "label": "List-Group",
+   "bbox": [
+    1843.9,
+    1911.7,
+    1966.1,
+    1972.3
+   ],
+   "text": ""
+  },
+  {
+   "block_id": 44,
+   "label": "List-Group",
+   "bbox": [
+    1585.7,
+    1974.3,
+    1926.3,
+    2041.5
+   ],
+   "text": "REMOVAL,"
+  },
+  {
+   "block_id": 45,
+   "label": "Text",
+   "bbox": [
+    1183.4,
+    2207.3,
+    2327.8,
+    2308.6
+   ],
+   "text": ""
+  },
+  {
+   "block_id": 46,
+   "label": "Text",
+   "bbox": [
+    1186.0,
+    2288.4,
+    2328.2,
+    2383.3
+   ],
+   "text": "if, where they have on hand a handsome affort."
+  },
+  {
+   "block_id": 47,
+   "label": "Text",
+   "bbox": [
+    1159.5,
+    2470.7,
+    1998.6,
+    2550.9
+   ],
+   "text": "as cheap as can be purchafed in town."
+  },
+  {
+   "block_id": 48,
+   "label": "Section-Header",
+   "bbox": [
+    1345.4,
+    2101.7,
+    2151.5,
+    2208.1
+   ],
+   "text": "Grecly & Fletcher,"
+  },
+  {
+   "block_id": 49,
+   "label": "Text",
+   "bbox": [
+    1352.8,
+    2401.6,
+    2186.4,
+    2497.0
+   ],
+   "text": "European & India Goods,"
+  },
+  {
+   "block_id": 50,
+   "label": "Text",
+   "bbox": [
+    1194.6,
+    2776.8,
+    2317.7,
+    2876.3
+   ],
+   "text": "they have received per the late attival, a"
+  },
+  {
+   "block_id": 51,
+   "label": "Section-Header",
+   "bbox": [
+    1386.9,
+    2651.7,
+    2110.4,
+    2757.5
+   ],
+   "text": "Lord & Thomas,"
+  },
+  {
+   "block_id": 52,
+   "label": "Text",
+   "bbox": [
+    1224.6,
+    3137.8,
+    1637.7,
+    3206.5
+   ],
+   "text": "Portland, Nov. 2."
+  },
+  {
+   "block_id": 53,
+   "label": "Section-Header",
+   "bbox": [
+    1331.1,
+    2901.2,
+    2154.8,
+    2998.3
+   ],
+   "text": "Fall and Winter GOODS,"
+  },
+  {
+   "block_id": 54,
+   "label": "Text",
+   "bbox": [
+    1178.5,
+    3015.6,
+    2322.3,
+    3115.2
+   ],
+   "text": "Jones' Recond which they will dispose of on the"
+  },
+  {
+   "block_id": 55,
+   "label": "Text",
+   "bbox": [
+    1568.2,
+    3245.7,
+    1920.2,
+    3316.3
+   ],
+   "text": "FOR SALE,"
+  },
+  {
+   "block_id": 56,
+   "label": "Section-Header",
+   "bbox": [
+    1274.0,
+    3307.1,
+    2228.0,
+    3425.2
+   ],
+   "text": "Dy Jofhua Richardfon,"
+  },
+  {
+   "block_id": 57,
+   "label": "Text",
+   "bbox": [
+    1291.7,
+    3473.6,
+    2247.2,
+    3564.2
+   ],
+   "text": "4th proof Barcelona BRANDY, of excellent"
+  },
+  {
+   "block_id": 58,
+   "label": "Text",
+   "bbox": [
+    1516.6,
+    3407.4,
+    2289.4,
+    3506.3
+   ],
+   "text": "4t N. Richardfon's Wbarf,"
+  },
+  {
+   "block_id": 59,
+   "label": "Text",
+   "bbox": [
+    1294.1,
+    3562.3,
+    2071.8,
+    3644.2
+   ],
+   "text": "a sales INDIA COTTOne para"
+  },
+  {
+   "block_id": 60,
+   "label": "Text",
+   "bbox": [
+    1285.4,
+    3635.4,
+    1896.7,
+    3711.7
+   ],
+   "text": "Superfine and Fine FLOUR,"
+  },
+  {
+   "block_id": 61,
+   "label": "Text",
+   "bbox": [
+    1286.8,
+    3712.4,
+    2084.9,
+    3793.8
+   ],
+   "text": "RAVENS DOCK. Nil patre"
+  },
+  {
+   "block_id": 62,
+   "label": "Text",
+   "bbox": [
+    1385.0,
+    3903.1,
+    1465.0,
+    3960.3
+   ],
+   "text": "do."
+  },
+  {
+   "block_id": 63,
+   "label": "Text",
+   "bbox": [
+    1288.6,
+    3788.6,
+    1982.3,
+    3865.5
+   ],
+   "text": "RUSSIA SHEETING, STEEL"
+  },
+  {
+   "block_id": 64,
+   "label": "Text",
+   "bbox": [
+    1289.3,
+    3839.5,
+    1817.7,
+    3914.4
+   ],
+   "text": "Philadelphia Bar IRON,"
+  },
+  {
+   "block_id": 65,
+   "label": "Text",
+   "bbox": [
+    1384.0,
+    3940.2,
+    1944.6,
+    4019.4
+   ],
+   "text": ""
+  },
+  {
+   "block_id": 66,
+   "label": "Text",
+   "bbox": [
+    1538.2,
+    3889.5,
+    2016.5,
+    3968.9
+   ],
+   "text": "CRACKERS, in kogs,"
+  },
+  {
+   "block_id": 67,
+   "label": "Text",
+   "bbox": [
+    1423.1,
+    4010.9,
+    2085.0,
+    4116.8
+   ],
+   "text": "Flour and Iron."
+  },
+  {
+   "block_id": 68,
+   "label": "Text",
+   "bbox": [
+    1770.3,
+    4189.8,
+    1832.9,
+    4278.1
+   ],
+   "text": "a"
+  },
+  {
+   "block_id": 69,
+   "label": "Text",
+   "bbox": [
+    1207.5,
+    4892.4,
+    1379.9,
+    4949.0
+   ],
+   "text": "Portland."
+  },
+  {
+   "block_id": 70,
+   "label": "Section-Header",
+   "bbox": [
+    1543.3,
+    4323.7,
+    2266.9,
+    4429.7
+   ],
+   "text": "WILLIAM JEWETT."
+  },
+  {
+   "block_id": 71,
+   "label": "Text",
+   "bbox": [
+    1193.1,
+    4771.9,
+    2333.4,
+    4860.6
+   ],
+   "text": "Efgrs. and about ten rods on the ftreet.—Inquire of"
+  },
+  {
+   "block_id": 72,
+   "label": "Text",
+   "bbox": [
+    1324.5,
+    4617.1,
+    2331.1,
+    4707.1
+   ],
+   "text": "now in the occupation of Mr. John Chadwick;"
+  },
+  {
+   "block_id": 73,
+   "label": "Text",
+   "bbox": [
+    1239.0,
+    4936.6,
+    1526.4,
+    4998.6
+   ],
+   "text": "Nov. 7, 1801."
+  },
+  {
+   "block_id": 74,
+   "label": "Section-Header",
+   "bbox": [
+    1516.3,
+    4484.7,
+    2009.7,
+    4579.0
+   ],
+   "text": "To be Sold,"
+  },
+  {
+   "block_id": 75,
+   "label": "Text",
+   "bbox": [
+    1651.1,
+    4872.5,
+    2252.2,
+    4949.1
+   ],
+   "text": "JOHN EROTHINGHAM."
+  },
+  {
+   "block_id": 76,
+   "label": "Text",
+   "bbox": [
+    1202.9,
+    5246.6,
+    2341.7,
+    5330.3
+   ],
+   "text": "ABiGAtL BARsTow —For conditions of fale, inquire of"
+  },
+  {
+   "block_id": 77,
+   "label": "Text",
+   "bbox": [
+    1225.5,
+    5358.2,
+    1628.7,
+    5428.0
+   ],
+   "text": "Portiand, Nov. 16."
+  },
+  {
+   "block_id": 78,
+   "label": "Text",
+   "bbox": [
+    1182.4,
+    5293.2,
+    2312.3,
+    5381.2
+   ],
+   "text": "GEORGE W IRRREN, living oppofite the premiles."
+  },
+  {
+   "block_id": 79,
+   "label": "List-Group",
+   "bbox": [
+    1226.2,
+    5406.5,
+    1349.9,
+    5471.7
+   ],
+   "text": "-"
+  },
+  {
+   "block_id": 80,
+   "label": "Text",
+   "bbox": [
+    1208.0,
+    5559.3,
+    2328.0,
+    5648.8
+   ],
+   "text": "FOR SALE from fivc hundredto feyenteen thoufand"
+  },
+  {
+   "block_id": 81,
+   "label": "List-Group",
+   "bbox": [
+    1240.5,
+    6118.7,
+    1365.1,
+    6184.8
+   ],
+   "text": "Also"
+  },
+  {
+   "block_id": 82,
+   "label": "Text",
+   "bbox": [
+    1189.4,
+    5664.6,
+    2353.7,
+    6450.0
+   ],
+   "text": "the famous Pifestaquis River, between Kennebeck and\nimmediate settlement\nabout twenty acres of Trees felled, and a road from it\ndown to Binger.—The Title is derived from the Gov.\neinment, and will be perfect, and to an entire fatisfac.\ntion of the purehafers. It will he fold at a reduced\nacres cach) in the town of Jav; in which town there\nare upwards of a hundred Families.—For further partic-\nulats inquire of the Printer, or of\nNerogloucester, Nov. 6."
+  },
+  {
+   "block_id": 83,
+   "label": "Text",
+   "bbox": [
+    1821.6,
+    1865.7,
+    2225.3,
+    1937.4
+   ],
+   "text": "Portland. Nov, 23."
+  },
+  {
+   "block_id": 84,
+   "label": "Text",
+   "bbox": [
+    81.2,
+    4599.7,
+    2375.7,
+    8146.9
+   ],
+   "text": "\n\n\n\n\n\n\n\n"
+  },
+  {
+   "block_id": 85,
+   "label": "Text",
+   "bbox": [
+    2156.9,
+    4393.7,
+    2308.2,
+    4488.2
+   ],
+   "text": "\n"
+  },
+  {
+   "block_id": 86,
+   "label": "Section-Header",
+   "bbox": [
+    1570.6,
+    5066.3,
+    1956.7,
+    5147.5
+   ],
+   "text": "For Sale,"
+  },
+  {
+   "block_id": 87,
+   "label": "Text",
+   "bbox": [
+    1926.2,
+    5166.7,
+    2185.3,
+    5238.2
+   ],
+   "text": "n on the"
+  },
+  {
+   "block_id": 88,
+   "label": "Section-Header",
+   "bbox": [
+    1422.4,
+    5477.4,
+    2089.8,
+    5568.6
+   ],
+   "text": "Valuable Lands,"
+  },
+  {
+   "block_id": 89,
+   "label": "Text",
+   "bbox": [
+    1729.7,
+    5802.7,
+    1961.5,
+    5869.4
+   ],
+   "text": "have n"
+  },
+  {
+   "block_id": 90,
+   "label": "Text",
+   "bbox": [
+    2070.8,
+    5799.7,
+    2115.6,
+    5862.8
+   ],
+   "text": "a"
+  },
+  {
+   "block_id": 91,
+   "label": "Text",
+   "bbox": [
+    1454.2,
+    6100.0,
+    2337.6,
+    6180.7
+   ],
+   "text": "about thirty cond feniling 1 Grs thanaens"
+  },
+  {
+   "block_id": 92,
+   "label": "Text",
+   "bbox": [
+    1741.3,
+    6320.9,
+    2300.6,
+    6396.0
+   ],
+   "text": "JOSEPH E. FOXCRAFT."
+  },
+  {
+   "block_id": 93,
+   "label": "Text",
+   "bbox": [
+    1193.0,
+    6405.1,
+    2369.8,
+    6736.9
+   ],
+   "text": "\na\nthe shop No. 10, in Fig fret, opposite the Inspection"
+  },
+  {
+   "block_id": 94,
+   "label": "Text",
+   "bbox": [
+    1462.1,
+    6469.9,
+    2077.9,
+    6560.5
+   ],
+   "text": "Abner Rogers,"
+  },
+  {
+   "block_id": 95,
+   "label": "Text",
+   "bbox": [
+    1965.5,
+    6574.4,
+    2108.7,
+    6643.9
+   ],
+   "text": "nd on"
+  },
+  {
+   "block_id": 96,
+   "label": "Text",
+   "bbox": [
+    1213.9,
+    6927.5,
+    2333.2,
+    7015.0
+   ],
+   "text": "And has a good affortemati i ABU anos."
+  },
+  {
+   "block_id": 97,
+   "label": "Text",
+   "bbox": [
+    1194.2,
+    7004.5,
+    2365.5,
+    7597.5
+   ],
+   "text": "Among which are—cafe Knives, of various defcrip.\ntions—carvers' pen and jack Kuives—Shovels and\nTongs—fteck Locks-ering and knob ditto—eloffet,\ndefk, draw, cheft and trunk, ditto—door, desk and table,\nHinges—ringing Bell—pod, and ferew Augurs—Chif.\ncis-Gouges—Plain Irons—Hand Saws—pannel, fath,\nand compas do.—Scalebeams—Iron and Bloektin table\nand tea Spoons—Sciffors —Razor Strops and Cafes\nTailor's Shears--fcrew Plater—large and fmall Files—\nplated Sugar Tonga—brafs Draw Handies—Lifting do,\n—wood Screw—Ink Stand—Horn and Ivory Comba."
+  },
+  {
+   "block_id": 98,
+   "label": "Text",
+   "bbox": [
+    1207.3,
+    7705.6,
+    2353.9,
+    8048.1
+   ],
+   "text": "Cock — &c. &c.\nBrushes - Clasps - Pad Locks Curry Combs Cloak\nbras Ladies meral Buttons aborer\nAlfo, an affortment of ENGLISH GOODs,"
+  },
+  {
+   "block_id": 99,
+   "label": "Text",
+   "bbox": [
+    2269.4,
+    7850.6,
+    2322.9,
+    7926.0
+   ],
+   "text": "i"
+  },
+  {
+   "block_id": 100,
+   "label": "Text",
+   "bbox": [
+    1205.1,
+    8163.2,
+    2361.4,
+    8410.4
+   ],
+   "text": "Saloons, Barauta, Taminy, Calamances, Morens,\nShaw and a variety of other articles, all which he"
+  },
+  {
+   "block_id": 101,
+   "label": "Text",
+   "bbox": [
+    1718.3,
+    8418.4,
+    2259.0,
+    8499.6
+   ],
+   "text": "- Portland, this lo 1801."
+  },
+  {
+   "block_id": 102,
+   "label": "Section-Header",
+   "bbox": [
+    2738.1,
+    1276.3,
+    3162.8,
+    1381.5
+   ],
+   "text": "Political."
+  },
+  {
+   "block_id": 103,
+   "label": "Text",
+   "bbox": [
+    2548.7,
+    1432.0,
+    3461.5,
+    1517.6
+   ],
+   "text": "From the (NY.) COMMERCIAL ADVENTIER."
+  },
+  {
+   "block_id": 104,
+   "label": "Text",
+   "bbox": [
+    2230.7,
+    1647.4,
+    2315.5,
+    1719.6
+   ],
+   "text": "the"
+  },
+  {
+   "block_id": 105,
+   "label": "Text",
+   "bbox": [
+    2501.6,
+    1702.9,
+    2606.6,
+    1774.2
+   ],
+   "text": ""
+  },
+  {
+   "block_id": 106,
+   "label": "Text",
+   "bbox": [
+    2737.1,
+    1530.8,
+    3110.8,
+    1605.3
+   ],
+   "text": "NUMBER VII."
+  },
+  {
+   "block_id": 107,
+   "label": "Text",
+   "bbox": [
+    2436.2,
+    1618.7,
+    3467.5,
+    1720.8
+   ],
+   "text": "To the PRESIDENT F . UNITED STATES."
+  },
+  {
+   "block_id": 108,
+   "label": "Text",
+   "bbox": [
+    2150.6,
+    1759.7,
+    3523.4,
+    2971.8
+   ],
+   "text": "-\nTHE fecond obfervation I have to make on\nthe principles avowed in your anfwer, is, that\nthe charge alledged azaint your predeceiler, of\nexcluding from all office thofe who were not of\na particular feit, is not well founded. You\nhave teliricted your attusation to the late and\nminifration. by which must be understood, he ad\nministration of Mr. Adams : for with repet\nto Gen, Wafhiegton, you know the charge can\nnot he supported; nor is it strictly true, in re\ngard to Mr. Adams, But as far as the experi\nment was made, boih your predeceffors found\nabundant reafon 1o quetion the fafety of ap.\npo nting the oppofers of their adminiftrations to\nresponible offices, especially where large fuma\nof money were to be intruied to their care.\nbegun his adminiftration upon the mot concil.\niatory prineiples. In ditributing the offices a."
+  },
+  {
+   "block_id": 109,
+   "label": "Text",
+   "bbox": [
+    2198.9,
+    3185.0,
+    2282.1,
+    3252.8
+   ],
+   "text": ""
+  },
+  {
+   "block_id": 110,
+   "label": "Text",
+   "bbox": [
+    2426.2,
+    2739.5,
+    3499.7,
+    2845.0
+   ],
+   "text": "I wll be recollected that Gen. Wafhington,"
+  },
+  {
+   "block_id": 111,
+   "label": "Text",
+   "bbox": [
+    2115.0,
+    3134.3,
+    2281.0,
+    3203.3
+   ],
+   "text": "(84-6)"
+  },
+  {
+   "block_id": 112,
+   "label": "Text",
+   "bbox": [
+    2361.3,
+    3155.1,
+    2374.6,
+    3240.2
+   ],
+   "text": "i"
+  },
+  {
+   "block_id": 113,
+   "label": "Section-Header",
+   "bbox": [
+    2357.6,
+    2950.0,
+    3524.8,
+    3058.6
+   ],
+   "text": ""
+  },
+  {
+   "block_id": 114,
+   "label": "Text",
+   "bbox": [
+    2348.7,
+    3040.6,
+    3529.4,
+    3826.2
+   ],
+   "text": "confequence ? He was of pofed and betrayed by\nn whom he had inted to hi\n100, Sir, when Secretary of State, were at the\nhead of a party incessantly throwing oblicles\nin the way of his administration and I have\nbei reremarked, that when youpraife the mn,\nin your inaugaral address, you are filent on his\nadminffration. It is alfo weli knowa that yon\ncountenanced a newspaper, which was published\nfor the purpofe of inveighing againit the ricaf\nures of Gen Washington."
+  },
+  {
+   "block_id": 115,
+   "label": "Text",
+   "bbox": [
+    2149.9,
+    3898.7,
+    2317.1,
+    3971.5
+   ],
+   "text": "No. 2"
+  },
+  {
+   "block_id": 116,
+   "label": "Text",
+   "bbox": [
+    2374.1,
+    3777.6,
+    3521.7,
+    4006.3
+   ],
+   "text": "When ou religned, your place was file thy\nwas the confequence? Let the arfwer be foun!"
+  },
+  {
+   "block_id": 117,
+   "label": "Text",
+   "bbox": [
+    2374.7,
+    3840.4,
+    3500.4,
+    3948.0
+   ],
+   "text": "Mr. Randolph, a man of the fame set. What"
+  },
+  {
+   "block_id": 118,
+   "label": "Text",
+   "bbox": [
+    2185.5,
+    4180.4,
+    2325.5,
+    4270.1
+   ],
+   "text": "floor,"
+  },
+  {
+   "block_id": 119,
+   "label": "Text",
+   "bbox": [
+    2366.8,
+    3967.7,
+    3530.5,
+    4497.3
+   ],
+   "text": "in the in precious confellions \" which betray the\nfeerets of government to a foreign and i fidious\nminister in the history of the four mechanis\nand in his default of resunding money to the\nUnited States, to the amount of ffty or fixty\nthoufand dollars, for which a fuit is, or was\nlately depewcing, with little probabity of re\ncovering the money."
+  },
+  {
+   "block_id": 120,
+   "label": "Text",
+   "bbox": [
+    2366.0,
+    4450.5,
+    3524.8,
+    5212.4
+   ],
+   "text": "The hiftory of Gen. Lamb, Colletor of the\nport of New. York, another of the lame polit,\ncal fed with yourself, who also was found delin.\nquent to the amount of fity theufand doilars\nor more [a part of which I am sold wil be loit)\nafforded another melancholy instance tow i\ntie confidence could be pared in your fat.\nAnother officer of the revenue in Boston, by\nthe name of Jarvis, of the fame republican feg.\nwas guilty of a fimilar breach of trut, if I anf\ntike not, to the amount of thirty thoufind doi.\nlars."
+  },
+  {
+   "block_id": 121,
+   "label": "Text",
+   "bbox": [
+    2422.3,
+    5184.9,
+    3525.0,
+    5285.3
+   ],
+   "text": "Mr. Monroe, minister ta Eeance, another of"
+  },
+  {
+   "block_id": 122,
+   "label": "Text",
+   "bbox": [
+    2381.8,
+    5246.5,
+    3506.8,
+    5407.2
+   ],
+   "text": "this favorite fed, who violated is in truction.\nadde ansther example to the lift of faithleis pub"
+  },
+  {
+   "block_id": 123,
+   "label": "Text",
+   "bbox": [
+    2385.4,
+    5381.2,
+    2667.1,
+    5457.6
+   ],
+   "text": "lic fervants,"
+  },
+  {
+   "block_id": 124,
+   "label": "Text",
+   "bbox": [
+    2363.5,
+    5424.5,
+    3539.4,
+    6502.5
+   ],
+   "text": "If, after all thefe indtances of breach of con\nfdence in the fef, which boalted of iss exlu\nfive tile to republicanifm, Gên. Wathington,\nand Mr. Adams, began to queltion the fatety\nof appointing pretended republicanr to office, can\nany fober citizen blame their doubt ? Some\nhoneft men of the party obtained offices an!\ncontinued to enjoy them unmedested. Some\nof your party ruceiwed appointments from Mr,\nAdams, especially military and naval officers,\nAnd ean you, Sir, overlook the nominatien of\nMr. Getty, to be one of our Envoys to France?\nFor the honor of my country, degraded and it.\nfulted through his mean fervilty, and for the\nhenor of honest Mr. Adams, I with it had not\nbeen in my power to add that appointment to\nthe numerous other proofs of the unfinels of"
+  },
+  {
+   "block_id": 125,
+   "label": "Text",
+   "bbox": [
+    2096.3,
+    6381.1,
+    2299.8,
+    6438.2
+   ],
+   "text": "(85—6w)"
+  },
+  {
+   "block_id": 126,
+   "label": "Text",
+   "bbox": [
+    2179.5,
+    6569.8,
+    2347.2,
+    6639.8
+   ],
+   "text": "e that"
+  },
+  {
+   "block_id": 127,
+   "label": "Text",
+   "bbox": [
+    2332.2,
+    6485.7,
+    3559.6,
+    8114.5
+   ],
+   "text": "\n\n\n"
+  },
+  {
+   "block_id": 128,
+   "label": "Text",
+   "bbox": [
+    2354.8,
+    6576.4,
+    3554.6,
+    7838.4
+   ],
+   "text": "alt excluded from offices ; and as far as the prin.\nciple ol exclufion was extended by your prede\neffors, it must be ascribed to we founded fif\npicions of their fidelity. Noman. I bslieve,\nwas ever precluded trom office folely on the\ngtound of his fpeculative opinions,\nces were monopolized by one fedt,\" require.\ngreat modifications te be intitled to the char.\norigin, recived their princ ple increafe and their\npeculiar sharatter, long after the date of moft\nof the appointments to civil offces. There was\nan ani-ederal party existing at the time the\nRovernment was framed and ag the time it wat\nput in operation; and the lesders in oppsition\nthen, were the germs of the prefent party, as\nthey are now the leaders."
+  },
+  {
+   "block_id": 129,
+   "label": "Text",
+   "bbox": [
+    2367.6,
+    7797.2,
+    3542.9,
+    8361.5
+   ],
+   "text": "But Gen. Walhington came into office by a\nn an into one by a\nlitical events which gave a new character and,\nted that one third or one half of your said ha\nbeen a clear augmentation to your trength\ne"
+  },
+  {
+   "block_id": 130,
+   "label": "Text",
+   "bbox": [
+    2367.7,
+    8343.0,
+    3525.9,
+    8508.9
+   ],
+   "text": "governmeul, the anti federal party reecived\ntheir due proportion of offices, taking into eti"
+  },
+  {
+   "block_id": 131,
+   "label": "Text",
+   "bbox": [
+    4249.6,
+    1033.2,
+    4688.9,
+    1119.6
+   ],
+   "text": "volunts IV."
+  },
+  {
+   "block_id": 132,
+   "label": "Text",
+   "bbox": [
+    3507.8,
+    7250.8,
+    3544.6,
+    7334.2
+   ],
+   "text": ""
+  },
+  {
+   "block_id": 133,
+   "label": "Text",
+   "bbox": [
+    2366.0,
+    8267.4,
+    2760.1,
+    8361.7
+   ],
+   "text": "able a ha"
+  },
+  {
+   "block_id": 134,
+   "label": "Section-Header",
+   "bbox": [
+    3547.5,
+    1224.9,
+    4704.3,
+    1333.3
+   ],
+   "text": "charaer in "
+  },
+  {
+   "block_id": 135,
+   "label": "Text",
+   "bbox": [
+    3528.5,
+    1311.9,
+    4715.8,
+    1910.2
+   ],
+   "text": "well filed, they have been considered as par\nmanently filed; the former Presidents never\nhaving difplaced men without fubtantid oh.\njections to their conduct in affice. There has\nthus been a coniderable change in the llate of\nparties. & very few changes in offices, The con.\nfequence has been that the proportion between\nthe set of opposition, and the number of of\nces felt by them. has been materially varied."
+  },
+  {
+   "block_id": 136,
+   "label": "Text",
+   "bbox": [
+    3539.7,
+    1866.4,
+    4695.2,
+    1970.5
+   ],
+   "text": "Fer inslance, in Connecticut. Newhamthire and"
+  },
+  {
+   "block_id": 137,
+   "label": "Text",
+   "bbox": [
+    3540.3,
+    1928.5,
+    4714.9,
+    2459.1
+   ],
+   "text": "Rhode Ifsod, and perhaps in Maffichuferts,\nthe prefent oppofiion has grown ttom almoit\nnothing. In fome ltates it did not'exilt, when\nthe offices in the national government were fil.\nled. The offices were then filled from the enl\nfarty that exilled. In thefe cafes the monspoly\n ice as you are pleafed to term it, has nota.\nrilen from any exclusion of others from office by"
+  },
+  {
+   "block_id": 138,
+   "label": "Text",
+   "bbox": [
+    3539.9,
+    2416.6,
+    4697.7,
+    2639.4
+   ],
+   "text": "the Executive, but by a new party ipringing\nup since the appointments were made that is\nby a feceffion from the majority."
+  },
+  {
+   "block_id": 139,
+   "label": "Text",
+   "bbox": [
+    3525.3,
+    2597.7,
+    4723.3,
+    3965.3
+   ],
+   "text": "The eafe is precifly fimilar to that of a town\nor city incorporated, in which, at the firft ehoice\nof officers, all the free citizens should agre in\nthe ei bice. But in a few months one half of\nthem, growing difcontented, form a party a-\ngainst the officers and their adherents and ex.\nclaim most bitterly against them for a u men.\nopely of offices.\" And this, Sir, on your prin-\nciples, mult forever be the cafe. On whatever\nmen offices are bestowed, their opposers wil be\nformirg parties, and crying out, 6 we are de.\nprived of our rights ; we have no share in the\nofhices.\" The very men, Sir, who have aided\nyou in yeur career, and who are now offering\nyou incente for bellowing offices on their fol.\nwill defe t you in a few years, perhaps moaths,\nform another parts, and rail moft vehemently\nagainil you and your favorites, for monopaliz\ning the offices of government. This confe.\nquence is as certain, as your principles Me ab.\ntord, and will involve you in inextricable em,\nbarraffirment."
+  },
+  {
+   "block_id": 140,
+   "label": "Text",
+   "bbox": [
+    4040.0,
+    3967.4,
+    4305.9,
+    4026.5
+   ],
+   "text": ""
+  },
+  {
+   "block_id": 141,
+   "label": "Section-Header",
+   "bbox": [
+    3937.0,
+    4046.2,
+    4287.6,
+    4112.6
+   ],
+   "text": "EXTRACTS"
+  },
+  {
+   "block_id": 142,
+   "label": "Text",
+   "bbox": [
+    3542.3,
+    4158.8,
+    4715.3,
+    5183.7
+   ],
+   "text": "the Preis in the United States, a pamphlet uit puh.\n THE condut and tenor of execntive and\njudicial appointments ought to be the subjet of\nteriting. Where the appointments are below.\ned upon perfous of a particnlar way of think.\ning, or on the lead is of a party, we have a\njalt ticht to difeover f om this, the drift of the\nadminiftration, and as clear a privilese openly\nto promuge the trath, as to the facts of ap.\npointment, and to give out our spinion of the\ntendency of the measures. Where there is a\ndivifion of fe'eralits and democrats, as tha\nparties are now called, and the prefident, eor th;\ngovernor, wid make an attichment to the one\nparty of the other a qualification to office, and"
+  },
+  {
+   "block_id": 143,
+   "label": "Text",
+   "bbox": [
+    3563.6,
+    5262.8,
+    4698.0,
+    5365.3
+   ],
+   "text": "ther, we have a right to con lamin the practice"
+  },
+  {
+   "block_id": 144,
+   "label": "Text",
+   "bbox": [
+    3564.9,
+    5322.1,
+    4698.9,
+    5423.6
+   ],
+   "text": "as bring a fpecies of corruption, deftructive to"
+  },
+  {
+   "block_id": 145,
+   "label": "Section-Header",
+   "bbox": [
+    3561.6,
+    5173.3,
+    4707.1,
+    5278.4
+   ],
+   "text": "che him "
+  },
+  {
+   "block_id": 146,
+   "label": "Text",
+   "bbox": [
+    3544.8,
+    5415.9,
+    4716.8,
+    6307.5
+   ],
+   "text": "\n\n"
+  },
+  {
+   "block_id": 147,
+   "label": "Text",
+   "bbox": [
+    3567.9,
+    5503.2,
+    4713.4,
+    5608.0
+   ],
+   "text": "creats factions, and to maintain dangetous and"
+  },
+  {
+   "block_id": 148,
+   "label": "Text",
+   "bbox": [
+    3548.3,
+    5564.8,
+    4704.3,
+    5670.2
+   ],
+   "text": "ter parties, as long as the governmient (hall"
+  },
+  {
+   "block_id": 149,
+   "label": "Text",
+   "bbox": [
+    3570.5,
+    5633.5,
+    3720.3,
+    5716.1
+   ],
+   "text": "exi"
+  },
+  {
+   "block_id": 150,
+   "label": "Text",
+   "bbox": [
+    3612.8,
+    5686.5,
+    4706.6,
+    5790.9
+   ],
+   "text": "\" It has heen faid that the president cannor"
+  },
+  {
+   "block_id": 151,
+   "label": "Text",
+   "bbox": [
+    3572.2,
+    5746.6,
+    4697.8,
+    5853.8
+   ],
+   "text": "adminiter the goverament on his own priaci."
+  },
+  {
+   "block_id": 152,
+   "label": "Text",
+   "bbox": [
+    3556.3,
+    6018.6,
+    4713.8,
+    6128.6
+   ],
+   "text": "in "
+  },
+  {
+   "block_id": 153,
+   "label": "Text",
+   "bbox": [
+    3563.5,
+    6404.1,
+    4711.1,
+    6515.6
+   ],
+   "text": "to its as to the fixed, unerring and unalterable"
+  },
+  {
+   "block_id": 154,
+   "label": "Text",
+   "bbox": [
+    3548.0,
+    6598.3,
+    4727.1,
+    7411.0
+   ],
+   "text": "r ou flves, and have only to embrace the\ncreed of the chief magitrate. Thofe who ex.\npett to live by the prelident's patronage, finding\nthe offices all full, will begin to intrigue for a\nnew prefilent, whofe political principles are in\ndiect oppofition to the one in office. The\nmen who view themfelves as candidates, wilt\nof courfe open a controverfy with him, and\neither explicily or implicitly, form contracts to\npromote the leaders of their party. Thus the\ncontti ution will be forfaken, and the plans and\nmachinations of parties form the plan of ad.\nminiftration."
+  },
+  {
+   "block_id": 155,
+   "label": "Text",
+   "bbox": [
+    3564.8,
+    7399.3,
+    4698.8,
+    7653.0
+   ],
+   "text": "\n"
+  },
+  {
+   "block_id": 156,
+   "label": "Text",
+   "bbox": [
+    3648.8,
+    7458.8,
+    4614.1,
+    7547.5
+   ],
+   "text": "From a Chari fion (Southeard na) Paper, B., 27,"
+  },
+  {
+   "block_id": 157,
+   "label": "Text",
+   "bbox": [
+    3548.1,
+    7710.7,
+    4716.4,
+    8484.1
+   ],
+   "text": "* YOU have no doubt heard efghe cleftion\nof Senate in this ftate —It is one of thofe evil\nevents from whenee good must refoli. Men\nhave been chofen without attention to abilities\nor respectability; but merely with a veie to\norganize the Legisters for party purposes,\nCharies Carrol, of Carroston, wiw, renteret\nhimself particularly conficianus during the Ac\nmerican war, has been difinisted for the want of\nrepublicanism. At the commencement of dur\nrevolu i ny Mr. Carrol pollised more prepenty\nthan any five inhabitants to our county, e"
+  }
+ ],
+ "indra_ocr_version": "1.1.2"
+}
